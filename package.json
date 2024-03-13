@@ -1,0 +1,29 @@
+{
+  "name": "@xllaber/stylespren",
+  "version": "1.0.0",
+  "description": "css lightweight custom framework",
+  "main": "main.scss",
+  "scripts": {
+    "build": "sass main.scss dist/main.css --style=compressed",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xllaber/Stylespren.git"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "lightweight",
+    "scss"
+  ],
+  "author": "Ximo Llacer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xllaber/Stylespren/issues"
+  },
+  "homepage": "https://github.com/xllaber/Stylespren#readme",
+  "devDependencies": {
+    "sass": "^1.71.1"
+  }
+}
