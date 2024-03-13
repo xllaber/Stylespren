@@ -1,0 +1,98 @@
+:root {
+  @for $i from 1 through length($widths) {
+    --width-#{$i}: #{nth($widths, $i)};
+  }
+}
+
+@for $i from 1 through length($widths) {
+  .width-#{$i} {
+    width: nth($widths, $i);
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($widths) {
+      .#{$breakpoint}\:width-#{$i} {
+        width: nth($widths, $i);
+      }
+    }
+  }
+}
+
+
+@each $value in $percentages {
+  .width-#{$value}\% {
+    width: #{$value + '%'};
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @each $value in $percentages {
+      .#{$breakpoint}\:width-#{$value}\% {
+        width: #{$value + '%'};
+      }
+    }
+  }
+}
+
+@each $value in $percentages {
+  .width-#{$value}vw {
+    width: #{$value}vw;
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @each $value in $percentages {
+      .#{$breakpoint}\:width-#{$value}vw {
+        width: #{$value}vw;
+      }
+    }
+  }
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.width-100vh {
+  width: 100vh;
+}
+
+.width-fit {
+  width: fit-content;
+}
+
+.width-max {
+  width: max-content;
+}
+
+.width-min {
+  width: min-content;
+}
+
+.width-auto {
+  width: auto;
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    .#{$breakpoint}\:width-100 {
+      width: 100%;
+    }
+    .#{$breakpoint}\:width-fit {
+      width: fit-content;
+    }
+    .#{$breakpoint}\:width-max {
+      width: max-content;
+    }
+    .#{$breakpoint}\:width-min {
+      width: min-content;
+    }
+    .#{$breakpoint}\:width-auto {
+      width: auto;
+    }
+  }
+}

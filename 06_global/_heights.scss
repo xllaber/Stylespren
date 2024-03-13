@@ -1,0 +1,86 @@
+:root {
+  @for $i from 1 through length($heights) {
+    --height-#{$i}: #{nth($heights, $i)};
+  }
+}
+
+@for $i from 1 through length($heights) {
+  .height-#{$i} {
+    height: nth($heights, $i);
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-height: #{$size}) {
+    @for $i from 1 through length($heights) {
+      .#{$breakpoint}\:height-#{$i} {
+        height: nth($heights, $i);
+      }
+    }
+  }
+}
+
+@each $value in $percentages {
+  .height-#{$value}\% {
+    height: #{$value + '%'};
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-height: #{$size}) {
+    @each $value in $percentages {
+      .#{$breakpoint}\:height-#{$value}\% {
+        height: #{$value + '%'};
+      }
+    }
+  }
+}
+
+@each $value in $percentages {
+  .height-#{$value}vh {
+    height: #{$value}vh;
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-height: #{$size}) {
+    @each $value in $percentages {
+      .#{$breakpoint}\:height-#{$value}vh {
+        height: #{$value}vh;
+      }
+    }
+  }
+}
+
+.height-fit {
+  height: fit-content;
+}
+
+.height-max {
+  height: max-content;
+}
+
+.height-min {
+  height: min-content;
+}
+
+.height-auto {
+  height: auto;
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-height: #{$size}) {
+    .#{$breakpoint}\:height-fit {
+      height: fit-content;
+    }
+    .#{$breakpoint}\:height-max {
+      height: max-content;
+    }
+    .#{$breakpoint}\:height-min {
+      height: min-content;
+    }
+    .#{$breakpoint}\:height-auto {
+      height: auto;
+    }
+  }
+}
