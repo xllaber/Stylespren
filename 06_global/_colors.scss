@@ -1,0 +1,31 @@
+:root{
+  @each $color, $tones in $colors {
+    @for $i from 1 through length($tones) {
+      --#{$color}-#{$i}: #{nth($tones, $i)};
+    }
+  }
+}
+
+@each $color, $tones in $colors {
+  @for $i from 1 through length($tones) {
+    .color-#{$color}-#{$i} {
+      color:var(--#{$color}-#{$i});
+    }
+  }
+}
+
+@each $color, $tones in $colors {
+  @for $i from 1 through length($tones) {
+    .bg-color-#{$color}-#{$i} {
+      background-color:var(--#{$color}-#{$i});
+    }
+  }
+}
+
+@each $color, $tones in $colors {
+  @for $i from 1 through length($tones) {
+    .border-color-#{$color}-#{$i} {
+      border-color:var(--#{$color}-#{$i});
+    }
+  }
+}

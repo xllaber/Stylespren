@@ -1,0 +1,8 @@
+@function remove-font-blank-space($font) {
+  $font-result: $font;
+  $index: str-index($font, "-");
+  @if($index != null) {
+    $font-result: str-slice($font, 0, ($index - 1)) + " " + str-slice($font, ($index + 1), str-length($font));
+  }
+  @return $font-result;
+}

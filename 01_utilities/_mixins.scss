@@ -1,0 +1,9 @@
+@mixin text-shadow($color) {
+  text-shadow: $color 1px 0 10px;
+}
+
+@mixin box-shadow($color) {
+  -webkit-box-shadow: 2px 10px 24px $color;
+  -moz-box-shadow: 2px 10px 24px $color;
+  box-shadow: 2px 10px 24px $color;
+}

@@ -1,0 +1,11 @@
+:root{
+  @for $i from 1 through length($font-sizes){
+    --font-size-#{$i}: #{nth($font-sizes, $i)};
+  }
+}
+
+@for $i from 1 through length($font-sizes){
+  .font-size-#{$i}{
+    font-size: nth($font-sizes, $i);
+  }
+}
