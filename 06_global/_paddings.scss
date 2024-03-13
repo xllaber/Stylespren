@@ -10,10 +10,31 @@
   }
 }
 
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($paddings){
+      .#{$breakpoint}\:padding-#{$i}{
+        padding: nth($paddings, $i);
+      }
+    }
+  }
+}
+
 @for $i from 1 through length($paddings){
   .padding-x-#{$i}{
     padding-left: nth($paddings, $i);
     padding-right: nth($paddings, $i);
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($paddings){
+      .padding-x-#{$i}{
+        padding-left: nth($paddings, $i);
+        padding-right: nth($paddings, $i);
+      }
+    }
   }
 }
 
@@ -24,9 +45,30 @@
   }
 }
 
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($paddings){
+      .padding-y-#{$i}{
+        padding-top: nth($paddings, $i);
+        padding-bottom: nth($paddings, $i);
+      }
+    }
+  }
+}
+
 @for $i from 1 through length($paddings){
   .padding-top-#{$i}{
     padding-top: nth($paddings, $i);
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($paddings){
+      .padding-top-#{$i}{
+        padding-top: nth($paddings, $i);
+      }
+    }
   }
 }
 
@@ -36,14 +78,44 @@
   }
 }
 
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($paddings){
+      .padding-right-#{$i}{
+        padding-right: nth($paddings, $i);
+      }
+    }
+  }
+}
+
 @for $i from 1 through length($paddings){
   .padding-bottom-#{$i}{
     padding-bottom: nth($paddings, $i);
   }
 }
 
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($paddings){
+      .padding-bottom-#{$i}{
+        padding-bottom: nth($paddings, $i);
+      }
+    }
+  }
+}
+
 @for $i from 1 through length($paddings){
   .padding-left-#{$i}{
     padding-left: nth($paddings, $i);
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($paddings){
+      .padding-left-#{$i}{
+        padding-left: nth($paddings, $i);
+      }
+    }
   }
 }

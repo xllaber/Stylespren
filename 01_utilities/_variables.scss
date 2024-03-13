@@ -10,6 +10,7 @@ $positions: (
 $z-index: (1, 5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100);
 $radius: (2px, 4px, 6x, 8px, 10px, 12px, 16px, 20px);
 $font-sizes: (12px, 14px, 16px, 18px, 20px, 24px, 30px, 36px, 48px, 64px, 72px);
+$break-points: ("sm": 550px, "md": 750px, "lg": 900px, "xl": 1200px);
 $colors: (
         "primary": (#676CD0, #4C56C8, #3849B7, #30429C, #283B81, #1F3165, #17264A, #0E192F, #060B14),
         "alternative": (#FAFCA6, #FBFA98, #FBF493, #F9E95D, #F7D826, #DDB608, #A78206, #715404, #3B2902),

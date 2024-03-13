@@ -1,3 +1,161 @@
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    .#{$breakpoint}\:grid {
+      display: grid;
+      @for $i from 1 through 12 {
+        &--col-#{$i} {
+          grid-template-columns: repeat(#{$i}, 1fr);
+        }
+      }
+
+      //gap
+      @for $i from 1 through length($gap){
+        &--gap-#{$i}{
+          gap: nth($gap, $i);
+        }
+      }
+      @for $i from 1 through length($gap){
+        &--col-gap-#{$i}{
+          column-gap: nth($gap, $i);
+        }
+      }
+      @for $i from 1 through length($gap){
+        &--row-gap-#{$i}{
+          row-gap: nth($gap, $i);
+        }
+      }
+
+      //justify items
+      &--justify-items-start {
+        justify-items: start;
+      }
+      &--justify-items-center {
+        justify-items: center;
+      }
+      &--justify-items-stretch {
+        justify-items: stretch;
+      }
+      &--justify-items-end {
+        justify-items: end;
+      }
+
+      //align items
+      &--align-items-start {
+        align-items: start;
+      }
+      &--align-items-stretch {
+        align-items: baseline;
+      }
+      &--align-items-center {
+        align-items: center;
+      }
+      &--align-items-stretch {
+        align-items: stretch;
+      }
+      &--align-items-end {
+        align-items: end;
+      }
+
+      //place items
+      &--place-items-start {
+        place-items: start;
+      }
+      &--place-items-stretch {
+        place-items: baseline;
+      }
+      &--place-items-center {
+        place-items: center;
+      }
+      &--place-items-end {
+        place-items: end;
+      }
+
+      //justify content
+      &--justify-content-start {
+        justify-content: start;
+      }
+      &--justify-content-center {
+        justify-content: center;
+      }
+      &--justify-content-between {
+        justify-content: space-between;
+      }
+      &--justify-content-around {
+        justify-content: space-around;
+      }
+      &--justify-content-evenly {
+        justify-content: space-evenly;
+      }
+      &--justify-items-stretch {
+        justify-items: stretch;
+      }
+      &--justify-content-end {
+        justify-content: end;
+      }
+
+      //align content
+      &--align-content-start {
+        align-content: start;
+      }
+      &--align-content-center {
+        align-content: center;
+      }
+      &--align-content-between {
+        align-content: space-between;
+      }
+      &--align-content-around {
+        align-content: space-around;
+      }
+      &--align-content-evenly {
+        align-content: space-evenly;
+      }
+      &--align-content-stretch {
+        align-content: stretch;
+      }
+      &--align-content-end {
+        align-content: end;
+      }
+
+      //place content
+      &--place-content-start {
+        place-content: start;
+      }
+      &--place-content-center {
+        place-content: center;
+      }
+      &--place-content-between {
+        place-content: space-between;
+      }
+      &--place-content-around {
+        place-content: space-around;
+      }
+      &--place-content-evenly {
+        place-content: space-evenly;
+      }
+      &--place-content-stretch {
+        place-content: stretch;
+      }
+      &--place-content-end {
+        place-content: end;
+      }
+
+      //place-self
+      &--place-self-start {
+        place-self: start;
+      }
+      &--place-self-center {
+        place-self: center;
+      }
+      &--place-self-stretch {
+        place-self: stretch;
+      }
+      &--place-self-end {
+        place-self: end;
+      }
+    }
+  }
+}
+
 .grid {
   display: grid;
   @for $i from 1 through 12 {
@@ -5,7 +163,7 @@
       grid-template-columns: repeat(#{$i}, 1fr);
     }
   }
-  
+
   //gap
   @for $i from 1 through length($gap){
     &--gap-#{$i}{
@@ -22,7 +180,7 @@
       row-gap: nth($gap, $i);
     }
   }
-  
+
   //justify items
   &--justify-items-start {
     justify-items: start;
@@ -151,3 +309,4 @@
     place-self: end;
   }
 }
+
