@@ -1,5 +1,5 @@
 @each $breakpoint, $size in $break-points {
-  @media (max-width: #{$size}) {
+  @media (min-width: #{$size}) {
     .#{$breakpoint}\:flex {
       display: flex;
 
