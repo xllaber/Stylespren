@@ -119,3 +119,67 @@
     }
   }
 }
+
+.margin-auto {
+  margin: auto;
+}
+
+.margin-top-auto {
+  margin-top: auto;
+}
+
+.margin-bottom-auto {
+  margin-bottom: auto;
+}
+
+.margin-left-auto {
+  margin-left: auto;
+}
+
+.margin-right-auto {
+  margin-right: auto;
+}
+
+.margin-y-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.margin-x-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    .#{$breakpoint}margin-auto {
+      margin: auto;
+    }
+
+    .#{$breakpoint}margin-top-auto {
+      margin-top: auto;
+    }
+
+    .#{$breakpoint}margin-bottom-auto {
+      margin-bottom: auto;
+    }
+
+    .#{$breakpoint}margin-left-auto {
+      margin-left: auto;
+    }
+
+    .#{$breakpoint}margin-right-auto {
+      margin-right: auto;
+    }
+
+    .#{$breakpoint}margin-y-auto {
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+
+    .#{$breakpoint}margin-x-auto {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}

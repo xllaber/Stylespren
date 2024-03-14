@@ -1,0 +1,15 @@
+@each $display, $value in $displays {
+  .#{$display} {
+    display: #{$value};
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: $size) {
+    @each $display, $value in $displays {
+      .#{$breakpoint}\:#{$display} {
+        display: #{$value};
+      }
+    }
+  }
+}

@@ -8,6 +8,12 @@ $radius: (2px, 4px, 6px, 8px, 10px, 12px, 16px, 20px);
 $font-sizes: (12px, 14px, 16px, 18px, 20px, 24px, 30px, 36px, 48px, 64px, 72px);
 $break-points: ("sm": 550px, "md": 750px, "lg": 900px, "xl": 1200px);
 $percentages: (10, 20, 25, 30, 40, 50, 60, 70, 75, 80, 90, 100);
+$displays: (
+        "hidden": "none",
+        "block": "block",
+        "inline": "inline",
+        "inline-block": "inline-block"
+);
 $positions: (
         "top": (0px, 4px, 6x, 8px, 10px, 12px, 16px, 20px, 24px, 32px, 40px, 48px, 64px, 80px, 96px, 128px, 160px, 192px, 224px, 256px, 320px, 480px, 640px),
         "bottom": (0px, 4px, 6x, 8px, 10px, 12px, 16px, 20px, 24px, 32px, 40px, 48px, 64px, 80px, 96px, 128px, 160px, 192px, 224px, 256px, 320px, 480px, 640px),
