@@ -1,5 +1,5 @@
 @each $breakpoint, $size in $break-points {
-  @media (min-width: #{$size}) {
+  @media (max-width: #{$size}) {
     .#{$breakpoint}\:grid {
       display: grid;
       @for $i from 1 through 12 {
