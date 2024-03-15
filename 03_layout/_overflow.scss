@@ -1,0 +1,111 @@
+.overflow {
+  &--visible {
+    overflow: visible;
+  }
+  &--clip {
+    overflow: clip;
+  }
+  &--hidden {
+    overflow: hidden;
+  }
+  &--scroll {
+    overflow: scroll;
+  }
+  &--auto {
+    overflow: auto;
+  }
+}
+
+.overflow-x {
+  &--visible {
+    overflow-x: visible;
+  }
+  &--clip {
+    overflow-x: clip;
+  }
+  &--hidden {
+    overflow-x: hidden;
+  }
+  &--scroll {
+    overflow-x: scroll;
+  }
+  &--auto {
+    overflow-x: auto;
+  }
+}
+
+.overflow-y {
+  &--visible {
+    overflow-y: visible;
+  }
+  &--clip {
+    overflow-y: clip;
+  }
+  &--hidden {
+    overflow-y: hidden;
+  }
+  &--scroll {
+    overflow-y: scroll;
+  }
+  &--auto {
+    overflow-y: auto;
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    .#{$breakpoint}\:overflow {
+      &--visible {
+        overflow: visible;
+      }
+      &--clip {
+        overflow: clip;
+      }
+      &--hidden {
+        overflow: hidden;
+      }
+      &--scroll {
+        overflow: scroll;
+      }
+      &--auto {
+        overflow: auto;
+      }
+    }
+
+    .#{$breakpoint}\:overflow-x {
+      &--visible {
+        overflow-x: visible;
+      }
+      &--clip {
+        overflow-x: clip;
+      }
+      &--hidden {
+        overflow-x: hidden;
+      }
+      &--scroll {
+        overflow-x: scroll;
+      }
+      &--auto {
+        overflow-x: auto;
+      }
+    }
+
+    .#{$breakpoint}\:overflow-y {
+      &--visible {
+        overflow-y: visible;
+      }
+      &--clip {
+        overflow-y: clip;
+      }
+      &--hidden {
+        overflow-y: hidden;
+      }
+      &--scroll {
+        overflow-y: scroll;
+      }
+      &--auto {
+        overflow-y: auto;
+      }
+    }
+  }
+}

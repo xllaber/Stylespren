@@ -152,6 +152,13 @@
       &--place-self-end {
         place-self: end;
       }
+
+      //col-span
+      @for $i from 1 through 12 {
+        &__col-span-#{$i} {
+          grid-column: span #{$i};
+        }
+      }
     }
   }
 }
@@ -307,6 +314,13 @@
   }
   &--place-self-end {
     place-self: end;
+  }
+
+  //col-span
+  @for $i from 1 through 12 {
+    &__col-span-#{$i} {
+      grid-column: span #{$i};
+    }
   }
 }
 

@@ -1,0 +1,11 @@
+.body {
+  &--white {
+    background-color: var(--white-5);
+  }
+  &--gray {
+    background-color: var(--gray-7);
+  }
+  &--dark-gray {
+    background-color: var(--black-1);
+  }
+}
