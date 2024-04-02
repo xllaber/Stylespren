@@ -14572,5 +14572,354 @@ template {
     border-bottom-right-radius: 20px;
   }
 }
+.scale-up-1 {
+  transition: transform 0.2s;
+}
+.scale-up-1:hover {
+  transform: scale(1.1);
+}
+
+.scale-up-2 {
+  transition: transform 0.2s;
+}
+.scale-up-2:hover {
+  transform: scale(1.2);
+}
+
+.scale-up-3 {
+  transition: transform 0.2s;
+}
+.scale-up-3:hover {
+  transform: scale(1.25);
+}
+
+.scale-up-4 {
+  transition: transform 0.2s;
+}
+.scale-up-4:hover {
+  transform: scale(1.3);
+}
+
+.scale-up-5 {
+  transition: transform 0.2s;
+}
+.scale-up-5:hover {
+  transform: scale(1.4);
+}
+
+.scale-up-6 {
+  transition: transform 0.2s;
+}
+.scale-up-6:hover {
+  transform: scale(1.5);
+}
+
+.scale-up-7 {
+  transition: transform 0.2s;
+}
+.scale-up-7:hover {
+  transform: scale(1.6);
+}
+
+.scale-up-8 {
+  transition: transform 0.2s;
+}
+.scale-up-8:hover {
+  transform: scale(1.7);
+}
+
+.scale-up-9 {
+  transition: transform 0.2s;
+}
+.scale-up-9:hover {
+  transform: scale(1.8);
+}
+
+.scale-up-10 {
+  transition: transform 0.2s;
+}
+.scale-up-10:hover {
+  transform: scale(1.9);
+}
+
+.scale-up-11 {
+  transition: transform 0.2s;
+}
+.scale-up-11:hover {
+  transform: scale(2);
+}
+
+@media (min-width: 550px) {
+  .sm\:scale-up-1 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-1:hover {
+    transform: scale(.1.1);
+  }
+  .sm\:scale-up-2 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-2:hover {
+    transform: scale(.1.2);
+  }
+  .sm\:scale-up-3 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-3:hover {
+    transform: scale(.1.25);
+  }
+  .sm\:scale-up-4 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-4:hover {
+    transform: scale(.1.3);
+  }
+  .sm\:scale-up-5 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-5:hover {
+    transform: scale(.1.4);
+  }
+  .sm\:scale-up-6 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-6:hover {
+    transform: scale(.1.5);
+  }
+  .sm\:scale-up-7 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-7:hover {
+    transform: scale(.1.6);
+  }
+  .sm\:scale-up-8 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-8:hover {
+    transform: scale(.1.7);
+  }
+  .sm\:scale-up-9 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-9:hover {
+    transform: scale(.1.8);
+  }
+  .sm\:scale-up-10 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-10:hover {
+    transform: scale(.1.9);
+  }
+  .sm\:scale-up-11 {
+    transition: transform 0.2s;
+  }
+  .sm\:scale-up-11:hover {
+    transform: scale(.2);
+  }
+}
+@media (min-width: 750px) {
+  .md\:scale-up-1 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-1:hover {
+    transform: scale(.1.1);
+  }
+  .md\:scale-up-2 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-2:hover {
+    transform: scale(.1.2);
+  }
+  .md\:scale-up-3 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-3:hover {
+    transform: scale(.1.25);
+  }
+  .md\:scale-up-4 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-4:hover {
+    transform: scale(.1.3);
+  }
+  .md\:scale-up-5 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-5:hover {
+    transform: scale(.1.4);
+  }
+  .md\:scale-up-6 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-6:hover {
+    transform: scale(.1.5);
+  }
+  .md\:scale-up-7 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-7:hover {
+    transform: scale(.1.6);
+  }
+  .md\:scale-up-8 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-8:hover {
+    transform: scale(.1.7);
+  }
+  .md\:scale-up-9 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-9:hover {
+    transform: scale(.1.8);
+  }
+  .md\:scale-up-10 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-10:hover {
+    transform: scale(.1.9);
+  }
+  .md\:scale-up-11 {
+    transition: transform 0.2s;
+  }
+  .md\:scale-up-11:hover {
+    transform: scale(.2);
+  }
+}
+@media (min-width: 900px) {
+  .lg\:scale-up-1 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-1:hover {
+    transform: scale(.1.1);
+  }
+  .lg\:scale-up-2 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-2:hover {
+    transform: scale(.1.2);
+  }
+  .lg\:scale-up-3 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-3:hover {
+    transform: scale(.1.25);
+  }
+  .lg\:scale-up-4 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-4:hover {
+    transform: scale(.1.3);
+  }
+  .lg\:scale-up-5 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-5:hover {
+    transform: scale(.1.4);
+  }
+  .lg\:scale-up-6 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-6:hover {
+    transform: scale(.1.5);
+  }
+  .lg\:scale-up-7 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-7:hover {
+    transform: scale(.1.6);
+  }
+  .lg\:scale-up-8 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-8:hover {
+    transform: scale(.1.7);
+  }
+  .lg\:scale-up-9 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-9:hover {
+    transform: scale(.1.8);
+  }
+  .lg\:scale-up-10 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-10:hover {
+    transform: scale(.1.9);
+  }
+  .lg\:scale-up-11 {
+    transition: transform 0.2s;
+  }
+  .lg\:scale-up-11:hover {
+    transform: scale(.2);
+  }
+}
+@media (min-width: 1200px) {
+  .xl\:scale-up-1 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-1:hover {
+    transform: scale(.1.1);
+  }
+  .xl\:scale-up-2 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-2:hover {
+    transform: scale(.1.2);
+  }
+  .xl\:scale-up-3 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-3:hover {
+    transform: scale(.1.25);
+  }
+  .xl\:scale-up-4 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-4:hover {
+    transform: scale(.1.3);
+  }
+  .xl\:scale-up-5 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-5:hover {
+    transform: scale(.1.4);
+  }
+  .xl\:scale-up-6 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-6:hover {
+    transform: scale(.1.5);
+  }
+  .xl\:scale-up-7 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-7:hover {
+    transform: scale(.1.6);
+  }
+  .xl\:scale-up-8 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-8:hover {
+    transform: scale(.1.7);
+  }
+  .xl\:scale-up-9 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-9:hover {
+    transform: scale(.1.8);
+  }
+  .xl\:scale-up-10 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-10:hover {
+    transform: scale(.1.9);
+  }
+  .xl\:scale-up-11 {
+    transition: transform 0.2s;
+  }
+  .xl\:scale-up-11:hover {
+    transform: scale(.2);
+  }
+}
 
 /*# sourceMappingURL=main.css.map */
