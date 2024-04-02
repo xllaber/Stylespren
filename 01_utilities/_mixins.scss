@@ -7,3 +7,14 @@
   -moz-box-shadow: 2px 10px 24px $color;
   box-shadow: 2px 10px 24px $color;
 }
+
+@mixin scroll-bar($track-color, $thumb-color, $thumb-color-hover) {
+
+  scrollbar-color: #{$thumb-color} #{$track-color};
+  scrollbar-width: thin;
+
+  &:hover {
+    scrollbar-color: #{$thumb-color-hover} #{$track-color};
+  }
+
+}
