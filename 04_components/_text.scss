@@ -1,0 +1,37 @@
+.text-align {
+  &--center {
+    text-align: center;
+  }
+  &--justify {
+    text-align: justify;
+  }
+  &--left {
+    text-align: left;
+  }
+  &--right {
+    text-align: right;
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    .#{$breakpoint}\:text-align {
+      &--center {
+        text-align: center;
+      }
+      &--justify {
+        text-align: justify;
+      }
+      &--left {
+        text-align: left;
+      }
+      &--right {
+        text-align: right;
+      }
+    }
+  }
+}
+
+.text-underline {
+  text-decoration: underline;
+}
