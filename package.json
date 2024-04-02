@@ -1,6 +1,6 @@
 {
   "name": "@xllaber/stylespren",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "css lightweight custom framework",
   "main": "main.scss",
   "scripts": {
