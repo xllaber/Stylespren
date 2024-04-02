@@ -1,0 +1,21 @@
+@for $i from 1 through length($percentages) {
+  .scale-up-#{$i} {
+    transition: transform .2s;
+    &:hover {
+      transform: scale(#{nth($percentages, $i)});
+    }
+  }
+}
+
+@each $break-point, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($percentages) {
+      .#{$break-point}\:scale-up-#{$i} {
+        transition: transform .2s;
+        &:hover {
+          transform: scale(#{nth($percentages, $i)});
+        }
+      }
+    }
+  }
+}
