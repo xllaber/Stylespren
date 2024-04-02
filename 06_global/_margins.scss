@@ -30,7 +30,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($margins){
-      .margin-x-#{$i}{
+      .#{$breakpoint}\:margin-x-#{$i}{
         margin-left: nth($margins, $i);
         margin-right: nth($margins, $i);
       }
@@ -48,7 +48,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($margins){
-      .margin-y-#{$i}{
+      .#{$breakpoint}\:margin-y-#{$i}{
         margin-top: nth($margins, $i);
         margin-bottom: nth($margins, $i);
       }
@@ -65,7 +65,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($margins){
-      .margin-top-#{$i}{
+      .#{$breakpoint}\:margin-top-#{$i}{
         margin-top: nth($margins, $i);
       }
     }
@@ -81,7 +81,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($margins){
-      .margin-right-#{$i}{
+      .#{$breakpoint}\:margin-right-#{$i}{
         margin-right: nth($margins, $i);
       }
     }
@@ -97,7 +97,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($margins){
-      .margin-bottom-#{$i}{
+      .#{$breakpoint}\:margin-bottom-#{$i}{
         margin-bottom: nth($margins, $i);
       }
     }
@@ -113,7 +113,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($margins){
-      .margin-left-#{$i}{
+      .#{$breakpoint}\:margin-left-#{$i}{
         margin-left: nth($margins, $i);
       }
     }

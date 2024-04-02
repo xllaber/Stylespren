@@ -13,7 +13,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($font-sizes){
-      .font-size-#{$i}{
+      .#{$breakpoint}\:font-size-#{$i}{
         font-size: nth($font-sizes, $i);
       }
     }
