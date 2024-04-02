@@ -3,7 +3,7 @@
     .#{$breakpoint}\:grid {
       display: grid;
       @for $i from 1 through 12 {
-        &--col-#{$i} {
+        &--cols-#{$i} {
           grid-template-columns: repeat(#{$i}, 1fr);
         }
       }
@@ -140,16 +140,16 @@
       }
 
       //place-self
-      &--place-self-start {
+      &__place-self-start {
         place-self: start;
       }
-      &--place-self-center {
+      &__place-self-center {
         place-self: center;
       }
-      &--place-self-stretch {
+      &__place-self-stretch {
         place-self: stretch;
       }
-      &--place-self-end {
+      &__place-self-end {
         place-self: end;
       }
 
@@ -166,7 +166,7 @@
 .grid {
   display: grid;
   @for $i from 1 through 12 {
-    &--col-#{$i} {
+    &--cols-#{$i} {
       grid-template-columns: repeat(#{$i}, 1fr);
     }
   }
@@ -303,16 +303,16 @@
   }
 
   //place-self
-  &--place-self-start {
+  &__place-self-start {
     place-self: start;
   }
-  &--place-self-center {
+  &__place-self-center {
     place-self: center;
   }
-  &--place-self-stretch {
+  &__place-self-stretch {
     place-self: stretch;
   }
-  &--place-self-end {
+  &__place-self-end {
     place-self: end;
   }
 
