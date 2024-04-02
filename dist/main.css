@@ -489,19 +489,19 @@ template {
   .sm\:flex--align-content-end {
     align-content: end;
   }
-  .sm\:flex--align-self-start {
+  .sm\:flex__align-self-start {
     align-self: flex-start;
   }
-  .sm\:flex--align-self-center {
+  .sm\:flex__align-self-center {
     align-self: center;
   }
-  .sm\:flex--align-self-baseline {
+  .sm\:flex__align-self-baseline {
     align-self: baseline;
   }
-  .sm\:flex--align-self-stretch {
+  .sm\:flex__align-self-stretch {
     align-self: stretch;
   }
-  .sm\:flex--align-self-end {
+  .sm\:flex__align-self-end {
     align-self: flex-end;
   }
   .sm\:flex--col {
@@ -818,19 +818,19 @@ template {
   .md\:flex--align-content-end {
     align-content: end;
   }
-  .md\:flex--align-self-start {
+  .md\:flex__align-self-start {
     align-self: flex-start;
   }
-  .md\:flex--align-self-center {
+  .md\:flex__align-self-center {
     align-self: center;
   }
-  .md\:flex--align-self-baseline {
+  .md\:flex__align-self-baseline {
     align-self: baseline;
   }
-  .md\:flex--align-self-stretch {
+  .md\:flex__align-self-stretch {
     align-self: stretch;
   }
-  .md\:flex--align-self-end {
+  .md\:flex__align-self-end {
     align-self: flex-end;
   }
   .md\:flex--col {
@@ -1147,19 +1147,19 @@ template {
   .lg\:flex--align-content-end {
     align-content: end;
   }
-  .lg\:flex--align-self-start {
+  .lg\:flex__align-self-start {
     align-self: flex-start;
   }
-  .lg\:flex--align-self-center {
+  .lg\:flex__align-self-center {
     align-self: center;
   }
-  .lg\:flex--align-self-baseline {
+  .lg\:flex__align-self-baseline {
     align-self: baseline;
   }
-  .lg\:flex--align-self-stretch {
+  .lg\:flex__align-self-stretch {
     align-self: stretch;
   }
-  .lg\:flex--align-self-end {
+  .lg\:flex__align-self-end {
     align-self: flex-end;
   }
   .lg\:flex--col {
@@ -1476,19 +1476,19 @@ template {
   .xl\:flex--align-content-end {
     align-content: end;
   }
-  .xl\:flex--align-self-start {
+  .xl\:flex__align-self-start {
     align-self: flex-start;
   }
-  .xl\:flex--align-self-center {
+  .xl\:flex__align-self-center {
     align-self: center;
   }
-  .xl\:flex--align-self-baseline {
+  .xl\:flex__align-self-baseline {
     align-self: baseline;
   }
-  .xl\:flex--align-self-stretch {
+  .xl\:flex__align-self-stretch {
     align-self: stretch;
   }
-  .xl\:flex--align-self-end {
+  .xl\:flex__align-self-end {
     align-self: flex-end;
   }
   .xl\:flex--col {
@@ -1804,19 +1804,19 @@ template {
 .flex--align-content-end {
   align-content: end;
 }
-.flex--align-self-start {
+.flex__align-self-start {
   align-self: flex-start;
 }
-.flex--align-self-center {
+.flex__align-self-center {
   align-self: center;
 }
-.flex--align-self-baseline {
+.flex__align-self-baseline {
   align-self: baseline;
 }
-.flex--align-self-stretch {
+.flex__align-self-stretch {
   align-self: stretch;
 }
-.flex--align-self-end {
+.flex__align-self-end {
   align-self: flex-end;
 }
 .flex--col {
@@ -2133,40 +2133,40 @@ template {
   .sm\:grid {
     display: grid;
   }
-  .sm\:grid--col-1 {
+  .sm\:grid--cols-1 {
     grid-template-columns: repeat(1, 1fr);
   }
-  .sm\:grid--col-2 {
+  .sm\:grid--cols-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .sm\:grid--col-3 {
+  .sm\:grid--cols-3 {
     grid-template-columns: repeat(3, 1fr);
   }
-  .sm\:grid--col-4 {
+  .sm\:grid--cols-4 {
     grid-template-columns: repeat(4, 1fr);
   }
-  .sm\:grid--col-5 {
+  .sm\:grid--cols-5 {
     grid-template-columns: repeat(5, 1fr);
   }
-  .sm\:grid--col-6 {
+  .sm\:grid--cols-6 {
     grid-template-columns: repeat(6, 1fr);
   }
-  .sm\:grid--col-7 {
+  .sm\:grid--cols-7 {
     grid-template-columns: repeat(7, 1fr);
   }
-  .sm\:grid--col-8 {
+  .sm\:grid--cols-8 {
     grid-template-columns: repeat(8, 1fr);
   }
-  .sm\:grid--col-9 {
+  .sm\:grid--cols-9 {
     grid-template-columns: repeat(9, 1fr);
   }
-  .sm\:grid--col-10 {
+  .sm\:grid--cols-10 {
     grid-template-columns: repeat(10, 1fr);
   }
-  .sm\:grid--col-11 {
+  .sm\:grid--cols-11 {
     grid-template-columns: repeat(11, 1fr);
   }
-  .sm\:grid--col-12 {
+  .sm\:grid--cols-12 {
     grid-template-columns: repeat(12, 1fr);
   }
   .sm\:grid--gap-1 {
@@ -2478,16 +2478,16 @@ template {
   .sm\:grid--place-content-end {
     place-content: end;
   }
-  .sm\:grid--place-self-start {
+  .sm\:grid__place-self-start {
     place-self: start;
   }
-  .sm\:grid--place-self-center {
+  .sm\:grid__place-self-center {
     place-self: center;
   }
-  .sm\:grid--place-self-stretch {
+  .sm\:grid__place-self-stretch {
     place-self: stretch;
   }
-  .sm\:grid--place-self-end {
+  .sm\:grid__place-self-end {
     place-self: end;
   }
   .sm\:grid__col-span-1 {
@@ -2531,40 +2531,40 @@ template {
   .md\:grid {
     display: grid;
   }
-  .md\:grid--col-1 {
+  .md\:grid--cols-1 {
     grid-template-columns: repeat(1, 1fr);
   }
-  .md\:grid--col-2 {
+  .md\:grid--cols-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .md\:grid--col-3 {
+  .md\:grid--cols-3 {
     grid-template-columns: repeat(3, 1fr);
   }
-  .md\:grid--col-4 {
+  .md\:grid--cols-4 {
     grid-template-columns: repeat(4, 1fr);
   }
-  .md\:grid--col-5 {
+  .md\:grid--cols-5 {
     grid-template-columns: repeat(5, 1fr);
   }
-  .md\:grid--col-6 {
+  .md\:grid--cols-6 {
     grid-template-columns: repeat(6, 1fr);
   }
-  .md\:grid--col-7 {
+  .md\:grid--cols-7 {
     grid-template-columns: repeat(7, 1fr);
   }
-  .md\:grid--col-8 {
+  .md\:grid--cols-8 {
     grid-template-columns: repeat(8, 1fr);
   }
-  .md\:grid--col-9 {
+  .md\:grid--cols-9 {
     grid-template-columns: repeat(9, 1fr);
   }
-  .md\:grid--col-10 {
+  .md\:grid--cols-10 {
     grid-template-columns: repeat(10, 1fr);
   }
-  .md\:grid--col-11 {
+  .md\:grid--cols-11 {
     grid-template-columns: repeat(11, 1fr);
   }
-  .md\:grid--col-12 {
+  .md\:grid--cols-12 {
     grid-template-columns: repeat(12, 1fr);
   }
   .md\:grid--gap-1 {
@@ -2876,16 +2876,16 @@ template {
   .md\:grid--place-content-end {
     place-content: end;
   }
-  .md\:grid--place-self-start {
+  .md\:grid__place-self-start {
     place-self: start;
   }
-  .md\:grid--place-self-center {
+  .md\:grid__place-self-center {
     place-self: center;
   }
-  .md\:grid--place-self-stretch {
+  .md\:grid__place-self-stretch {
     place-self: stretch;
   }
-  .md\:grid--place-self-end {
+  .md\:grid__place-self-end {
     place-self: end;
   }
   .md\:grid__col-span-1 {
@@ -2929,40 +2929,40 @@ template {
   .lg\:grid {
     display: grid;
   }
-  .lg\:grid--col-1 {
+  .lg\:grid--cols-1 {
     grid-template-columns: repeat(1, 1fr);
   }
-  .lg\:grid--col-2 {
+  .lg\:grid--cols-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .lg\:grid--col-3 {
+  .lg\:grid--cols-3 {
     grid-template-columns: repeat(3, 1fr);
   }
-  .lg\:grid--col-4 {
+  .lg\:grid--cols-4 {
     grid-template-columns: repeat(4, 1fr);
   }
-  .lg\:grid--col-5 {
+  .lg\:grid--cols-5 {
     grid-template-columns: repeat(5, 1fr);
   }
-  .lg\:grid--col-6 {
+  .lg\:grid--cols-6 {
     grid-template-columns: repeat(6, 1fr);
   }
-  .lg\:grid--col-7 {
+  .lg\:grid--cols-7 {
     grid-template-columns: repeat(7, 1fr);
   }
-  .lg\:grid--col-8 {
+  .lg\:grid--cols-8 {
     grid-template-columns: repeat(8, 1fr);
   }
-  .lg\:grid--col-9 {
+  .lg\:grid--cols-9 {
     grid-template-columns: repeat(9, 1fr);
   }
-  .lg\:grid--col-10 {
+  .lg\:grid--cols-10 {
     grid-template-columns: repeat(10, 1fr);
   }
-  .lg\:grid--col-11 {
+  .lg\:grid--cols-11 {
     grid-template-columns: repeat(11, 1fr);
   }
-  .lg\:grid--col-12 {
+  .lg\:grid--cols-12 {
     grid-template-columns: repeat(12, 1fr);
   }
   .lg\:grid--gap-1 {
@@ -3274,16 +3274,16 @@ template {
   .lg\:grid--place-content-end {
     place-content: end;
   }
-  .lg\:grid--place-self-start {
+  .lg\:grid__place-self-start {
     place-self: start;
   }
-  .lg\:grid--place-self-center {
+  .lg\:grid__place-self-center {
     place-self: center;
   }
-  .lg\:grid--place-self-stretch {
+  .lg\:grid__place-self-stretch {
     place-self: stretch;
   }
-  .lg\:grid--place-self-end {
+  .lg\:grid__place-self-end {
     place-self: end;
   }
   .lg\:grid__col-span-1 {
@@ -3327,40 +3327,40 @@ template {
   .xl\:grid {
     display: grid;
   }
-  .xl\:grid--col-1 {
+  .xl\:grid--cols-1 {
     grid-template-columns: repeat(1, 1fr);
   }
-  .xl\:grid--col-2 {
+  .xl\:grid--cols-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .xl\:grid--col-3 {
+  .xl\:grid--cols-3 {
     grid-template-columns: repeat(3, 1fr);
   }
-  .xl\:grid--col-4 {
+  .xl\:grid--cols-4 {
     grid-template-columns: repeat(4, 1fr);
   }
-  .xl\:grid--col-5 {
+  .xl\:grid--cols-5 {
     grid-template-columns: repeat(5, 1fr);
   }
-  .xl\:grid--col-6 {
+  .xl\:grid--cols-6 {
     grid-template-columns: repeat(6, 1fr);
   }
-  .xl\:grid--col-7 {
+  .xl\:grid--cols-7 {
     grid-template-columns: repeat(7, 1fr);
   }
-  .xl\:grid--col-8 {
+  .xl\:grid--cols-8 {
     grid-template-columns: repeat(8, 1fr);
   }
-  .xl\:grid--col-9 {
+  .xl\:grid--cols-9 {
     grid-template-columns: repeat(9, 1fr);
   }
-  .xl\:grid--col-10 {
+  .xl\:grid--cols-10 {
     grid-template-columns: repeat(10, 1fr);
   }
-  .xl\:grid--col-11 {
+  .xl\:grid--cols-11 {
     grid-template-columns: repeat(11, 1fr);
   }
-  .xl\:grid--col-12 {
+  .xl\:grid--cols-12 {
     grid-template-columns: repeat(12, 1fr);
   }
   .xl\:grid--gap-1 {
@@ -3672,16 +3672,16 @@ template {
   .xl\:grid--place-content-end {
     place-content: end;
   }
-  .xl\:grid--place-self-start {
+  .xl\:grid__place-self-start {
     place-self: start;
   }
-  .xl\:grid--place-self-center {
+  .xl\:grid__place-self-center {
     place-self: center;
   }
-  .xl\:grid--place-self-stretch {
+  .xl\:grid__place-self-stretch {
     place-self: stretch;
   }
-  .xl\:grid--place-self-end {
+  .xl\:grid__place-self-end {
     place-self: end;
   }
   .xl\:grid__col-span-1 {
@@ -3724,40 +3724,40 @@ template {
 .grid {
   display: grid;
 }
-.grid--col-1 {
+.grid--cols-1 {
   grid-template-columns: repeat(1, 1fr);
 }
-.grid--col-2 {
+.grid--cols-2 {
   grid-template-columns: repeat(2, 1fr);
 }
-.grid--col-3 {
+.grid--cols-3 {
   grid-template-columns: repeat(3, 1fr);
 }
-.grid--col-4 {
+.grid--cols-4 {
   grid-template-columns: repeat(4, 1fr);
 }
-.grid--col-5 {
+.grid--cols-5 {
   grid-template-columns: repeat(5, 1fr);
 }
-.grid--col-6 {
+.grid--cols-6 {
   grid-template-columns: repeat(6, 1fr);
 }
-.grid--col-7 {
+.grid--cols-7 {
   grid-template-columns: repeat(7, 1fr);
 }
-.grid--col-8 {
+.grid--cols-8 {
   grid-template-columns: repeat(8, 1fr);
 }
-.grid--col-9 {
+.grid--cols-9 {
   grid-template-columns: repeat(9, 1fr);
 }
-.grid--col-10 {
+.grid--cols-10 {
   grid-template-columns: repeat(10, 1fr);
 }
-.grid--col-11 {
+.grid--cols-11 {
   grid-template-columns: repeat(11, 1fr);
 }
-.grid--col-12 {
+.grid--cols-12 {
   grid-template-columns: repeat(12, 1fr);
 }
 .grid--gap-1 {
@@ -4069,16 +4069,16 @@ template {
 .grid--place-content-end {
   place-content: end;
 }
-.grid--place-self-start {
+.grid__place-self-start {
   place-self: start;
 }
-.grid--place-self-center {
+.grid__place-self-center {
   place-self: center;
 }
-.grid--place-self-stretch {
+.grid__place-self-stretch {
   place-self: stretch;
 }
-.grid--place-self-end {
+.grid__place-self-end {
   place-self: end;
 }
 .grid__col-span-1 {
