@@ -6326,377 +6326,377 @@ template {
 }
 
 @media (min-width: 550px) {
-  .margin-x-1 {
+  .sm\:margin-x-1 {
     margin-left: 0px;
     margin-right: 0px;
   }
-  .margin-x-2 {
+  .sm\:margin-x-2 {
     margin-left: 4px;
     margin-right: 4px;
   }
-  .margin-x-3 {
+  .sm\:margin-x-3 {
     margin-left: 6px;
     margin-right: 6px;
   }
-  .margin-x-4 {
+  .sm\:margin-x-4 {
     margin-left: 8px;
     margin-right: 8px;
   }
-  .margin-x-5 {
+  .sm\:margin-x-5 {
     margin-left: 10px;
     margin-right: 10px;
   }
-  .margin-x-6 {
+  .sm\:margin-x-6 {
     margin-left: 12px;
     margin-right: 12px;
   }
-  .margin-x-7 {
+  .sm\:margin-x-7 {
     margin-left: 16px;
     margin-right: 16px;
   }
-  .margin-x-8 {
+  .sm\:margin-x-8 {
     margin-left: 20px;
     margin-right: 20px;
   }
-  .margin-x-9 {
+  .sm\:margin-x-9 {
     margin-left: 24px;
     margin-right: 24px;
   }
-  .margin-x-10 {
+  .sm\:margin-x-10 {
     margin-left: 32px;
     margin-right: 32px;
   }
-  .margin-x-11 {
+  .sm\:margin-x-11 {
     margin-left: 40px;
     margin-right: 40px;
   }
-  .margin-x-12 {
+  .sm\:margin-x-12 {
     margin-left: 48px;
     margin-right: 48px;
   }
-  .margin-x-13 {
+  .sm\:margin-x-13 {
     margin-left: 64px;
     margin-right: 64px;
   }
-  .margin-x-14 {
+  .sm\:margin-x-14 {
     margin-left: 80px;
     margin-right: 80px;
   }
-  .margin-x-15 {
+  .sm\:margin-x-15 {
     margin-left: 96px;
     margin-right: 96px;
   }
-  .margin-x-16 {
+  .sm\:margin-x-16 {
     margin-left: 128px;
     margin-right: 128px;
   }
-  .margin-x-17 {
+  .sm\:margin-x-17 {
     margin-left: 160px;
     margin-right: 160px;
   }
-  .margin-x-18 {
+  .sm\:margin-x-18 {
     margin-left: 192px;
     margin-right: 192px;
   }
-  .margin-x-19 {
+  .sm\:margin-x-19 {
     margin-left: 224px;
     margin-right: 224px;
   }
-  .margin-x-20 {
+  .sm\:margin-x-20 {
     margin-left: 256px;
     margin-right: 256px;
   }
-  .margin-x-21 {
+  .sm\:margin-x-21 {
     margin-left: 320px;
     margin-right: 320px;
   }
-  .margin-x-22 {
+  .sm\:margin-x-22 {
     margin-left: 480px;
     margin-right: 480px;
   }
-  .margin-x-23 {
+  .sm\:margin-x-23 {
     margin-left: 640px;
     margin-right: 640px;
   }
 }
 @media (min-width: 750px) {
-  .margin-x-1 {
+  .md\:margin-x-1 {
     margin-left: 0px;
     margin-right: 0px;
   }
-  .margin-x-2 {
+  .md\:margin-x-2 {
     margin-left: 4px;
     margin-right: 4px;
   }
-  .margin-x-3 {
+  .md\:margin-x-3 {
     margin-left: 6px;
     margin-right: 6px;
   }
-  .margin-x-4 {
+  .md\:margin-x-4 {
     margin-left: 8px;
     margin-right: 8px;
   }
-  .margin-x-5 {
+  .md\:margin-x-5 {
     margin-left: 10px;
     margin-right: 10px;
   }
-  .margin-x-6 {
+  .md\:margin-x-6 {
     margin-left: 12px;
     margin-right: 12px;
   }
-  .margin-x-7 {
+  .md\:margin-x-7 {
     margin-left: 16px;
     margin-right: 16px;
   }
-  .margin-x-8 {
+  .md\:margin-x-8 {
     margin-left: 20px;
     margin-right: 20px;
   }
-  .margin-x-9 {
+  .md\:margin-x-9 {
     margin-left: 24px;
     margin-right: 24px;
   }
-  .margin-x-10 {
+  .md\:margin-x-10 {
     margin-left: 32px;
     margin-right: 32px;
   }
-  .margin-x-11 {
+  .md\:margin-x-11 {
     margin-left: 40px;
     margin-right: 40px;
   }
-  .margin-x-12 {
+  .md\:margin-x-12 {
     margin-left: 48px;
     margin-right: 48px;
   }
-  .margin-x-13 {
+  .md\:margin-x-13 {
     margin-left: 64px;
     margin-right: 64px;
   }
-  .margin-x-14 {
+  .md\:margin-x-14 {
     margin-left: 80px;
     margin-right: 80px;
   }
-  .margin-x-15 {
+  .md\:margin-x-15 {
     margin-left: 96px;
     margin-right: 96px;
   }
-  .margin-x-16 {
+  .md\:margin-x-16 {
     margin-left: 128px;
     margin-right: 128px;
   }
-  .margin-x-17 {
+  .md\:margin-x-17 {
     margin-left: 160px;
     margin-right: 160px;
   }
-  .margin-x-18 {
+  .md\:margin-x-18 {
     margin-left: 192px;
     margin-right: 192px;
   }
-  .margin-x-19 {
+  .md\:margin-x-19 {
     margin-left: 224px;
     margin-right: 224px;
   }
-  .margin-x-20 {
+  .md\:margin-x-20 {
     margin-left: 256px;
     margin-right: 256px;
   }
-  .margin-x-21 {
+  .md\:margin-x-21 {
     margin-left: 320px;
     margin-right: 320px;
   }
-  .margin-x-22 {
+  .md\:margin-x-22 {
     margin-left: 480px;
     margin-right: 480px;
   }
-  .margin-x-23 {
+  .md\:margin-x-23 {
     margin-left: 640px;
     margin-right: 640px;
   }
 }
 @media (min-width: 900px) {
-  .margin-x-1 {
+  .lg\:margin-x-1 {
     margin-left: 0px;
     margin-right: 0px;
   }
-  .margin-x-2 {
+  .lg\:margin-x-2 {
     margin-left: 4px;
     margin-right: 4px;
   }
-  .margin-x-3 {
+  .lg\:margin-x-3 {
     margin-left: 6px;
     margin-right: 6px;
   }
-  .margin-x-4 {
+  .lg\:margin-x-4 {
     margin-left: 8px;
     margin-right: 8px;
   }
-  .margin-x-5 {
+  .lg\:margin-x-5 {
     margin-left: 10px;
     margin-right: 10px;
   }
-  .margin-x-6 {
+  .lg\:margin-x-6 {
     margin-left: 12px;
     margin-right: 12px;
   }
-  .margin-x-7 {
+  .lg\:margin-x-7 {
     margin-left: 16px;
     margin-right: 16px;
   }
-  .margin-x-8 {
+  .lg\:margin-x-8 {
     margin-left: 20px;
     margin-right: 20px;
   }
-  .margin-x-9 {
+  .lg\:margin-x-9 {
     margin-left: 24px;
     margin-right: 24px;
   }
-  .margin-x-10 {
+  .lg\:margin-x-10 {
     margin-left: 32px;
     margin-right: 32px;
   }
-  .margin-x-11 {
+  .lg\:margin-x-11 {
     margin-left: 40px;
     margin-right: 40px;
   }
-  .margin-x-12 {
+  .lg\:margin-x-12 {
     margin-left: 48px;
     margin-right: 48px;
   }
-  .margin-x-13 {
+  .lg\:margin-x-13 {
     margin-left: 64px;
     margin-right: 64px;
   }
-  .margin-x-14 {
+  .lg\:margin-x-14 {
     margin-left: 80px;
     margin-right: 80px;
   }
-  .margin-x-15 {
+  .lg\:margin-x-15 {
     margin-left: 96px;
     margin-right: 96px;
   }
-  .margin-x-16 {
+  .lg\:margin-x-16 {
     margin-left: 128px;
     margin-right: 128px;
   }
-  .margin-x-17 {
+  .lg\:margin-x-17 {
     margin-left: 160px;
     margin-right: 160px;
   }
-  .margin-x-18 {
+  .lg\:margin-x-18 {
     margin-left: 192px;
     margin-right: 192px;
   }
-  .margin-x-19 {
+  .lg\:margin-x-19 {
     margin-left: 224px;
     margin-right: 224px;
   }
-  .margin-x-20 {
+  .lg\:margin-x-20 {
     margin-left: 256px;
     margin-right: 256px;
   }
-  .margin-x-21 {
+  .lg\:margin-x-21 {
     margin-left: 320px;
     margin-right: 320px;
   }
-  .margin-x-22 {
+  .lg\:margin-x-22 {
     margin-left: 480px;
     margin-right: 480px;
   }
-  .margin-x-23 {
+  .lg\:margin-x-23 {
     margin-left: 640px;
     margin-right: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .margin-x-1 {
+  .xl\:margin-x-1 {
     margin-left: 0px;
     margin-right: 0px;
   }
-  .margin-x-2 {
+  .xl\:margin-x-2 {
     margin-left: 4px;
     margin-right: 4px;
   }
-  .margin-x-3 {
+  .xl\:margin-x-3 {
     margin-left: 6px;
     margin-right: 6px;
   }
-  .margin-x-4 {
+  .xl\:margin-x-4 {
     margin-left: 8px;
     margin-right: 8px;
   }
-  .margin-x-5 {
+  .xl\:margin-x-5 {
     margin-left: 10px;
     margin-right: 10px;
   }
-  .margin-x-6 {
+  .xl\:margin-x-6 {
     margin-left: 12px;
     margin-right: 12px;
   }
-  .margin-x-7 {
+  .xl\:margin-x-7 {
     margin-left: 16px;
     margin-right: 16px;
   }
-  .margin-x-8 {
+  .xl\:margin-x-8 {
     margin-left: 20px;
     margin-right: 20px;
   }
-  .margin-x-9 {
+  .xl\:margin-x-9 {
     margin-left: 24px;
     margin-right: 24px;
   }
-  .margin-x-10 {
+  .xl\:margin-x-10 {
     margin-left: 32px;
     margin-right: 32px;
   }
-  .margin-x-11 {
+  .xl\:margin-x-11 {
     margin-left: 40px;
     margin-right: 40px;
   }
-  .margin-x-12 {
+  .xl\:margin-x-12 {
     margin-left: 48px;
     margin-right: 48px;
   }
-  .margin-x-13 {
+  .xl\:margin-x-13 {
     margin-left: 64px;
     margin-right: 64px;
   }
-  .margin-x-14 {
+  .xl\:margin-x-14 {
     margin-left: 80px;
     margin-right: 80px;
   }
-  .margin-x-15 {
+  .xl\:margin-x-15 {
     margin-left: 96px;
     margin-right: 96px;
   }
-  .margin-x-16 {
+  .xl\:margin-x-16 {
     margin-left: 128px;
     margin-right: 128px;
   }
-  .margin-x-17 {
+  .xl\:margin-x-17 {
     margin-left: 160px;
     margin-right: 160px;
   }
-  .margin-x-18 {
+  .xl\:margin-x-18 {
     margin-left: 192px;
     margin-right: 192px;
   }
-  .margin-x-19 {
+  .xl\:margin-x-19 {
     margin-left: 224px;
     margin-right: 224px;
   }
-  .margin-x-20 {
+  .xl\:margin-x-20 {
     margin-left: 256px;
     margin-right: 256px;
   }
-  .margin-x-21 {
+  .xl\:margin-x-21 {
     margin-left: 320px;
     margin-right: 320px;
   }
-  .margin-x-22 {
+  .xl\:margin-x-22 {
     margin-left: 480px;
     margin-right: 480px;
   }
-  .margin-x-23 {
+  .xl\:margin-x-23 {
     margin-left: 640px;
     margin-right: 640px;
   }
@@ -6817,377 +6817,377 @@ template {
 }
 
 @media (min-width: 550px) {
-  .margin-y-1 {
+  .sm\:margin-y-1 {
     margin-top: 0px;
     margin-bottom: 0px;
   }
-  .margin-y-2 {
+  .sm\:margin-y-2 {
     margin-top: 4px;
     margin-bottom: 4px;
   }
-  .margin-y-3 {
+  .sm\:margin-y-3 {
     margin-top: 6px;
     margin-bottom: 6px;
   }
-  .margin-y-4 {
+  .sm\:margin-y-4 {
     margin-top: 8px;
     margin-bottom: 8px;
   }
-  .margin-y-5 {
+  .sm\:margin-y-5 {
     margin-top: 10px;
     margin-bottom: 10px;
   }
-  .margin-y-6 {
+  .sm\:margin-y-6 {
     margin-top: 12px;
     margin-bottom: 12px;
   }
-  .margin-y-7 {
+  .sm\:margin-y-7 {
     margin-top: 16px;
     margin-bottom: 16px;
   }
-  .margin-y-8 {
+  .sm\:margin-y-8 {
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .margin-y-9 {
+  .sm\:margin-y-9 {
     margin-top: 24px;
     margin-bottom: 24px;
   }
-  .margin-y-10 {
+  .sm\:margin-y-10 {
     margin-top: 32px;
     margin-bottom: 32px;
   }
-  .margin-y-11 {
+  .sm\:margin-y-11 {
     margin-top: 40px;
     margin-bottom: 40px;
   }
-  .margin-y-12 {
+  .sm\:margin-y-12 {
     margin-top: 48px;
     margin-bottom: 48px;
   }
-  .margin-y-13 {
+  .sm\:margin-y-13 {
     margin-top: 64px;
     margin-bottom: 64px;
   }
-  .margin-y-14 {
+  .sm\:margin-y-14 {
     margin-top: 80px;
     margin-bottom: 80px;
   }
-  .margin-y-15 {
+  .sm\:margin-y-15 {
     margin-top: 96px;
     margin-bottom: 96px;
   }
-  .margin-y-16 {
+  .sm\:margin-y-16 {
     margin-top: 128px;
     margin-bottom: 128px;
   }
-  .margin-y-17 {
+  .sm\:margin-y-17 {
     margin-top: 160px;
     margin-bottom: 160px;
   }
-  .margin-y-18 {
+  .sm\:margin-y-18 {
     margin-top: 192px;
     margin-bottom: 192px;
   }
-  .margin-y-19 {
+  .sm\:margin-y-19 {
     margin-top: 224px;
     margin-bottom: 224px;
   }
-  .margin-y-20 {
+  .sm\:margin-y-20 {
     margin-top: 256px;
     margin-bottom: 256px;
   }
-  .margin-y-21 {
+  .sm\:margin-y-21 {
     margin-top: 320px;
     margin-bottom: 320px;
   }
-  .margin-y-22 {
+  .sm\:margin-y-22 {
     margin-top: 480px;
     margin-bottom: 480px;
   }
-  .margin-y-23 {
+  .sm\:margin-y-23 {
     margin-top: 640px;
     margin-bottom: 640px;
   }
 }
 @media (min-width: 750px) {
-  .margin-y-1 {
+  .md\:margin-y-1 {
     margin-top: 0px;
     margin-bottom: 0px;
   }
-  .margin-y-2 {
+  .md\:margin-y-2 {
     margin-top: 4px;
     margin-bottom: 4px;
   }
-  .margin-y-3 {
+  .md\:margin-y-3 {
     margin-top: 6px;
     margin-bottom: 6px;
   }
-  .margin-y-4 {
+  .md\:margin-y-4 {
     margin-top: 8px;
     margin-bottom: 8px;
   }
-  .margin-y-5 {
+  .md\:margin-y-5 {
     margin-top: 10px;
     margin-bottom: 10px;
   }
-  .margin-y-6 {
+  .md\:margin-y-6 {
     margin-top: 12px;
     margin-bottom: 12px;
   }
-  .margin-y-7 {
+  .md\:margin-y-7 {
     margin-top: 16px;
     margin-bottom: 16px;
   }
-  .margin-y-8 {
+  .md\:margin-y-8 {
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .margin-y-9 {
+  .md\:margin-y-9 {
     margin-top: 24px;
     margin-bottom: 24px;
   }
-  .margin-y-10 {
+  .md\:margin-y-10 {
     margin-top: 32px;
     margin-bottom: 32px;
   }
-  .margin-y-11 {
+  .md\:margin-y-11 {
     margin-top: 40px;
     margin-bottom: 40px;
   }
-  .margin-y-12 {
+  .md\:margin-y-12 {
     margin-top: 48px;
     margin-bottom: 48px;
   }
-  .margin-y-13 {
+  .md\:margin-y-13 {
     margin-top: 64px;
     margin-bottom: 64px;
   }
-  .margin-y-14 {
+  .md\:margin-y-14 {
     margin-top: 80px;
     margin-bottom: 80px;
   }
-  .margin-y-15 {
+  .md\:margin-y-15 {
     margin-top: 96px;
     margin-bottom: 96px;
   }
-  .margin-y-16 {
+  .md\:margin-y-16 {
     margin-top: 128px;
     margin-bottom: 128px;
   }
-  .margin-y-17 {
+  .md\:margin-y-17 {
     margin-top: 160px;
     margin-bottom: 160px;
   }
-  .margin-y-18 {
+  .md\:margin-y-18 {
     margin-top: 192px;
     margin-bottom: 192px;
   }
-  .margin-y-19 {
+  .md\:margin-y-19 {
     margin-top: 224px;
     margin-bottom: 224px;
   }
-  .margin-y-20 {
+  .md\:margin-y-20 {
     margin-top: 256px;
     margin-bottom: 256px;
   }
-  .margin-y-21 {
+  .md\:margin-y-21 {
     margin-top: 320px;
     margin-bottom: 320px;
   }
-  .margin-y-22 {
+  .md\:margin-y-22 {
     margin-top: 480px;
     margin-bottom: 480px;
   }
-  .margin-y-23 {
+  .md\:margin-y-23 {
     margin-top: 640px;
     margin-bottom: 640px;
   }
 }
 @media (min-width: 900px) {
-  .margin-y-1 {
+  .lg\:margin-y-1 {
     margin-top: 0px;
     margin-bottom: 0px;
   }
-  .margin-y-2 {
+  .lg\:margin-y-2 {
     margin-top: 4px;
     margin-bottom: 4px;
   }
-  .margin-y-3 {
+  .lg\:margin-y-3 {
     margin-top: 6px;
     margin-bottom: 6px;
   }
-  .margin-y-4 {
+  .lg\:margin-y-4 {
     margin-top: 8px;
     margin-bottom: 8px;
   }
-  .margin-y-5 {
+  .lg\:margin-y-5 {
     margin-top: 10px;
     margin-bottom: 10px;
   }
-  .margin-y-6 {
+  .lg\:margin-y-6 {
     margin-top: 12px;
     margin-bottom: 12px;
   }
-  .margin-y-7 {
+  .lg\:margin-y-7 {
     margin-top: 16px;
     margin-bottom: 16px;
   }
-  .margin-y-8 {
+  .lg\:margin-y-8 {
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .margin-y-9 {
+  .lg\:margin-y-9 {
     margin-top: 24px;
     margin-bottom: 24px;
   }
-  .margin-y-10 {
+  .lg\:margin-y-10 {
     margin-top: 32px;
     margin-bottom: 32px;
   }
-  .margin-y-11 {
+  .lg\:margin-y-11 {
     margin-top: 40px;
     margin-bottom: 40px;
   }
-  .margin-y-12 {
+  .lg\:margin-y-12 {
     margin-top: 48px;
     margin-bottom: 48px;
   }
-  .margin-y-13 {
+  .lg\:margin-y-13 {
     margin-top: 64px;
     margin-bottom: 64px;
   }
-  .margin-y-14 {
+  .lg\:margin-y-14 {
     margin-top: 80px;
     margin-bottom: 80px;
   }
-  .margin-y-15 {
+  .lg\:margin-y-15 {
     margin-top: 96px;
     margin-bottom: 96px;
   }
-  .margin-y-16 {
+  .lg\:margin-y-16 {
     margin-top: 128px;
     margin-bottom: 128px;
   }
-  .margin-y-17 {
+  .lg\:margin-y-17 {
     margin-top: 160px;
     margin-bottom: 160px;
   }
-  .margin-y-18 {
+  .lg\:margin-y-18 {
     margin-top: 192px;
     margin-bottom: 192px;
   }
-  .margin-y-19 {
+  .lg\:margin-y-19 {
     margin-top: 224px;
     margin-bottom: 224px;
   }
-  .margin-y-20 {
+  .lg\:margin-y-20 {
     margin-top: 256px;
     margin-bottom: 256px;
   }
-  .margin-y-21 {
+  .lg\:margin-y-21 {
     margin-top: 320px;
     margin-bottom: 320px;
   }
-  .margin-y-22 {
+  .lg\:margin-y-22 {
     margin-top: 480px;
     margin-bottom: 480px;
   }
-  .margin-y-23 {
+  .lg\:margin-y-23 {
     margin-top: 640px;
     margin-bottom: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .margin-y-1 {
+  .xl\:margin-y-1 {
     margin-top: 0px;
     margin-bottom: 0px;
   }
-  .margin-y-2 {
+  .xl\:margin-y-2 {
     margin-top: 4px;
     margin-bottom: 4px;
   }
-  .margin-y-3 {
+  .xl\:margin-y-3 {
     margin-top: 6px;
     margin-bottom: 6px;
   }
-  .margin-y-4 {
+  .xl\:margin-y-4 {
     margin-top: 8px;
     margin-bottom: 8px;
   }
-  .margin-y-5 {
+  .xl\:margin-y-5 {
     margin-top: 10px;
     margin-bottom: 10px;
   }
-  .margin-y-6 {
+  .xl\:margin-y-6 {
     margin-top: 12px;
     margin-bottom: 12px;
   }
-  .margin-y-7 {
+  .xl\:margin-y-7 {
     margin-top: 16px;
     margin-bottom: 16px;
   }
-  .margin-y-8 {
+  .xl\:margin-y-8 {
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .margin-y-9 {
+  .xl\:margin-y-9 {
     margin-top: 24px;
     margin-bottom: 24px;
   }
-  .margin-y-10 {
+  .xl\:margin-y-10 {
     margin-top: 32px;
     margin-bottom: 32px;
   }
-  .margin-y-11 {
+  .xl\:margin-y-11 {
     margin-top: 40px;
     margin-bottom: 40px;
   }
-  .margin-y-12 {
+  .xl\:margin-y-12 {
     margin-top: 48px;
     margin-bottom: 48px;
   }
-  .margin-y-13 {
+  .xl\:margin-y-13 {
     margin-top: 64px;
     margin-bottom: 64px;
   }
-  .margin-y-14 {
+  .xl\:margin-y-14 {
     margin-top: 80px;
     margin-bottom: 80px;
   }
-  .margin-y-15 {
+  .xl\:margin-y-15 {
     margin-top: 96px;
     margin-bottom: 96px;
   }
-  .margin-y-16 {
+  .xl\:margin-y-16 {
     margin-top: 128px;
     margin-bottom: 128px;
   }
-  .margin-y-17 {
+  .xl\:margin-y-17 {
     margin-top: 160px;
     margin-bottom: 160px;
   }
-  .margin-y-18 {
+  .xl\:margin-y-18 {
     margin-top: 192px;
     margin-bottom: 192px;
   }
-  .margin-y-19 {
+  .xl\:margin-y-19 {
     margin-top: 224px;
     margin-bottom: 224px;
   }
-  .margin-y-20 {
+  .xl\:margin-y-20 {
     margin-top: 256px;
     margin-bottom: 256px;
   }
-  .margin-y-21 {
+  .xl\:margin-y-21 {
     margin-top: 320px;
     margin-bottom: 320px;
   }
-  .margin-y-22 {
+  .xl\:margin-y-22 {
     margin-top: 480px;
     margin-bottom: 480px;
   }
-  .margin-y-23 {
+  .xl\:margin-y-23 {
     margin-top: 640px;
     margin-bottom: 640px;
   }
@@ -7285,286 +7285,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .margin-top-1 {
+  .sm\:margin-top-1 {
     margin-top: 0px;
   }
-  .margin-top-2 {
+  .sm\:margin-top-2 {
     margin-top: 4px;
   }
-  .margin-top-3 {
+  .sm\:margin-top-3 {
     margin-top: 6px;
   }
-  .margin-top-4 {
+  .sm\:margin-top-4 {
     margin-top: 8px;
   }
-  .margin-top-5 {
+  .sm\:margin-top-5 {
     margin-top: 10px;
   }
-  .margin-top-6 {
+  .sm\:margin-top-6 {
     margin-top: 12px;
   }
-  .margin-top-7 {
+  .sm\:margin-top-7 {
     margin-top: 16px;
   }
-  .margin-top-8 {
+  .sm\:margin-top-8 {
     margin-top: 20px;
   }
-  .margin-top-9 {
+  .sm\:margin-top-9 {
     margin-top: 24px;
   }
-  .margin-top-10 {
+  .sm\:margin-top-10 {
     margin-top: 32px;
   }
-  .margin-top-11 {
+  .sm\:margin-top-11 {
     margin-top: 40px;
   }
-  .margin-top-12 {
+  .sm\:margin-top-12 {
     margin-top: 48px;
   }
-  .margin-top-13 {
+  .sm\:margin-top-13 {
     margin-top: 64px;
   }
-  .margin-top-14 {
+  .sm\:margin-top-14 {
     margin-top: 80px;
   }
-  .margin-top-15 {
+  .sm\:margin-top-15 {
     margin-top: 96px;
   }
-  .margin-top-16 {
+  .sm\:margin-top-16 {
     margin-top: 128px;
   }
-  .margin-top-17 {
+  .sm\:margin-top-17 {
     margin-top: 160px;
   }
-  .margin-top-18 {
+  .sm\:margin-top-18 {
     margin-top: 192px;
   }
-  .margin-top-19 {
+  .sm\:margin-top-19 {
     margin-top: 224px;
   }
-  .margin-top-20 {
+  .sm\:margin-top-20 {
     margin-top: 256px;
   }
-  .margin-top-21 {
+  .sm\:margin-top-21 {
     margin-top: 320px;
   }
-  .margin-top-22 {
+  .sm\:margin-top-22 {
     margin-top: 480px;
   }
-  .margin-top-23 {
+  .sm\:margin-top-23 {
     margin-top: 640px;
   }
 }
 @media (min-width: 750px) {
-  .margin-top-1 {
+  .md\:margin-top-1 {
     margin-top: 0px;
   }
-  .margin-top-2 {
+  .md\:margin-top-2 {
     margin-top: 4px;
   }
-  .margin-top-3 {
+  .md\:margin-top-3 {
     margin-top: 6px;
   }
-  .margin-top-4 {
+  .md\:margin-top-4 {
     margin-top: 8px;
   }
-  .margin-top-5 {
+  .md\:margin-top-5 {
     margin-top: 10px;
   }
-  .margin-top-6 {
+  .md\:margin-top-6 {
     margin-top: 12px;
   }
-  .margin-top-7 {
+  .md\:margin-top-7 {
     margin-top: 16px;
   }
-  .margin-top-8 {
+  .md\:margin-top-8 {
     margin-top: 20px;
   }
-  .margin-top-9 {
+  .md\:margin-top-9 {
     margin-top: 24px;
   }
-  .margin-top-10 {
+  .md\:margin-top-10 {
     margin-top: 32px;
   }
-  .margin-top-11 {
+  .md\:margin-top-11 {
     margin-top: 40px;
   }
-  .margin-top-12 {
+  .md\:margin-top-12 {
     margin-top: 48px;
   }
-  .margin-top-13 {
+  .md\:margin-top-13 {
     margin-top: 64px;
   }
-  .margin-top-14 {
+  .md\:margin-top-14 {
     margin-top: 80px;
   }
-  .margin-top-15 {
+  .md\:margin-top-15 {
     margin-top: 96px;
   }
-  .margin-top-16 {
+  .md\:margin-top-16 {
     margin-top: 128px;
   }
-  .margin-top-17 {
+  .md\:margin-top-17 {
     margin-top: 160px;
   }
-  .margin-top-18 {
+  .md\:margin-top-18 {
     margin-top: 192px;
   }
-  .margin-top-19 {
+  .md\:margin-top-19 {
     margin-top: 224px;
   }
-  .margin-top-20 {
+  .md\:margin-top-20 {
     margin-top: 256px;
   }
-  .margin-top-21 {
+  .md\:margin-top-21 {
     margin-top: 320px;
   }
-  .margin-top-22 {
+  .md\:margin-top-22 {
     margin-top: 480px;
   }
-  .margin-top-23 {
+  .md\:margin-top-23 {
     margin-top: 640px;
   }
 }
 @media (min-width: 900px) {
-  .margin-top-1 {
+  .lg\:margin-top-1 {
     margin-top: 0px;
   }
-  .margin-top-2 {
+  .lg\:margin-top-2 {
     margin-top: 4px;
   }
-  .margin-top-3 {
+  .lg\:margin-top-3 {
     margin-top: 6px;
   }
-  .margin-top-4 {
+  .lg\:margin-top-4 {
     margin-top: 8px;
   }
-  .margin-top-5 {
+  .lg\:margin-top-5 {
     margin-top: 10px;
   }
-  .margin-top-6 {
+  .lg\:margin-top-6 {
     margin-top: 12px;
   }
-  .margin-top-7 {
+  .lg\:margin-top-7 {
     margin-top: 16px;
   }
-  .margin-top-8 {
+  .lg\:margin-top-8 {
     margin-top: 20px;
   }
-  .margin-top-9 {
+  .lg\:margin-top-9 {
     margin-top: 24px;
   }
-  .margin-top-10 {
+  .lg\:margin-top-10 {
     margin-top: 32px;
   }
-  .margin-top-11 {
+  .lg\:margin-top-11 {
     margin-top: 40px;
   }
-  .margin-top-12 {
+  .lg\:margin-top-12 {
     margin-top: 48px;
   }
-  .margin-top-13 {
+  .lg\:margin-top-13 {
     margin-top: 64px;
   }
-  .margin-top-14 {
+  .lg\:margin-top-14 {
     margin-top: 80px;
   }
-  .margin-top-15 {
+  .lg\:margin-top-15 {
     margin-top: 96px;
   }
-  .margin-top-16 {
+  .lg\:margin-top-16 {
     margin-top: 128px;
   }
-  .margin-top-17 {
+  .lg\:margin-top-17 {
     margin-top: 160px;
   }
-  .margin-top-18 {
+  .lg\:margin-top-18 {
     margin-top: 192px;
   }
-  .margin-top-19 {
+  .lg\:margin-top-19 {
     margin-top: 224px;
   }
-  .margin-top-20 {
+  .lg\:margin-top-20 {
     margin-top: 256px;
   }
-  .margin-top-21 {
+  .lg\:margin-top-21 {
     margin-top: 320px;
   }
-  .margin-top-22 {
+  .lg\:margin-top-22 {
     margin-top: 480px;
   }
-  .margin-top-23 {
+  .lg\:margin-top-23 {
     margin-top: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .margin-top-1 {
+  .xl\:margin-top-1 {
     margin-top: 0px;
   }
-  .margin-top-2 {
+  .xl\:margin-top-2 {
     margin-top: 4px;
   }
-  .margin-top-3 {
+  .xl\:margin-top-3 {
     margin-top: 6px;
   }
-  .margin-top-4 {
+  .xl\:margin-top-4 {
     margin-top: 8px;
   }
-  .margin-top-5 {
+  .xl\:margin-top-5 {
     margin-top: 10px;
   }
-  .margin-top-6 {
+  .xl\:margin-top-6 {
     margin-top: 12px;
   }
-  .margin-top-7 {
+  .xl\:margin-top-7 {
     margin-top: 16px;
   }
-  .margin-top-8 {
+  .xl\:margin-top-8 {
     margin-top: 20px;
   }
-  .margin-top-9 {
+  .xl\:margin-top-9 {
     margin-top: 24px;
   }
-  .margin-top-10 {
+  .xl\:margin-top-10 {
     margin-top: 32px;
   }
-  .margin-top-11 {
+  .xl\:margin-top-11 {
     margin-top: 40px;
   }
-  .margin-top-12 {
+  .xl\:margin-top-12 {
     margin-top: 48px;
   }
-  .margin-top-13 {
+  .xl\:margin-top-13 {
     margin-top: 64px;
   }
-  .margin-top-14 {
+  .xl\:margin-top-14 {
     margin-top: 80px;
   }
-  .margin-top-15 {
+  .xl\:margin-top-15 {
     margin-top: 96px;
   }
-  .margin-top-16 {
+  .xl\:margin-top-16 {
     margin-top: 128px;
   }
-  .margin-top-17 {
+  .xl\:margin-top-17 {
     margin-top: 160px;
   }
-  .margin-top-18 {
+  .xl\:margin-top-18 {
     margin-top: 192px;
   }
-  .margin-top-19 {
+  .xl\:margin-top-19 {
     margin-top: 224px;
   }
-  .margin-top-20 {
+  .xl\:margin-top-20 {
     margin-top: 256px;
   }
-  .margin-top-21 {
+  .xl\:margin-top-21 {
     margin-top: 320px;
   }
-  .margin-top-22 {
+  .xl\:margin-top-22 {
     margin-top: 480px;
   }
-  .margin-top-23 {
+  .xl\:margin-top-23 {
     margin-top: 640px;
   }
 }
@@ -7661,286 +7661,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .margin-right-1 {
+  .sm\:margin-right-1 {
     margin-right: 0px;
   }
-  .margin-right-2 {
+  .sm\:margin-right-2 {
     margin-right: 4px;
   }
-  .margin-right-3 {
+  .sm\:margin-right-3 {
     margin-right: 6px;
   }
-  .margin-right-4 {
+  .sm\:margin-right-4 {
     margin-right: 8px;
   }
-  .margin-right-5 {
+  .sm\:margin-right-5 {
     margin-right: 10px;
   }
-  .margin-right-6 {
+  .sm\:margin-right-6 {
     margin-right: 12px;
   }
-  .margin-right-7 {
+  .sm\:margin-right-7 {
     margin-right: 16px;
   }
-  .margin-right-8 {
+  .sm\:margin-right-8 {
     margin-right: 20px;
   }
-  .margin-right-9 {
+  .sm\:margin-right-9 {
     margin-right: 24px;
   }
-  .margin-right-10 {
+  .sm\:margin-right-10 {
     margin-right: 32px;
   }
-  .margin-right-11 {
+  .sm\:margin-right-11 {
     margin-right: 40px;
   }
-  .margin-right-12 {
+  .sm\:margin-right-12 {
     margin-right: 48px;
   }
-  .margin-right-13 {
+  .sm\:margin-right-13 {
     margin-right: 64px;
   }
-  .margin-right-14 {
+  .sm\:margin-right-14 {
     margin-right: 80px;
   }
-  .margin-right-15 {
+  .sm\:margin-right-15 {
     margin-right: 96px;
   }
-  .margin-right-16 {
+  .sm\:margin-right-16 {
     margin-right: 128px;
   }
-  .margin-right-17 {
+  .sm\:margin-right-17 {
     margin-right: 160px;
   }
-  .margin-right-18 {
+  .sm\:margin-right-18 {
     margin-right: 192px;
   }
-  .margin-right-19 {
+  .sm\:margin-right-19 {
     margin-right: 224px;
   }
-  .margin-right-20 {
+  .sm\:margin-right-20 {
     margin-right: 256px;
   }
-  .margin-right-21 {
+  .sm\:margin-right-21 {
     margin-right: 320px;
   }
-  .margin-right-22 {
+  .sm\:margin-right-22 {
     margin-right: 480px;
   }
-  .margin-right-23 {
+  .sm\:margin-right-23 {
     margin-right: 640px;
   }
 }
 @media (min-width: 750px) {
-  .margin-right-1 {
+  .md\:margin-right-1 {
     margin-right: 0px;
   }
-  .margin-right-2 {
+  .md\:margin-right-2 {
     margin-right: 4px;
   }
-  .margin-right-3 {
+  .md\:margin-right-3 {
     margin-right: 6px;
   }
-  .margin-right-4 {
+  .md\:margin-right-4 {
     margin-right: 8px;
   }
-  .margin-right-5 {
+  .md\:margin-right-5 {
     margin-right: 10px;
   }
-  .margin-right-6 {
+  .md\:margin-right-6 {
     margin-right: 12px;
   }
-  .margin-right-7 {
+  .md\:margin-right-7 {
     margin-right: 16px;
   }
-  .margin-right-8 {
+  .md\:margin-right-8 {
     margin-right: 20px;
   }
-  .margin-right-9 {
+  .md\:margin-right-9 {
     margin-right: 24px;
   }
-  .margin-right-10 {
+  .md\:margin-right-10 {
     margin-right: 32px;
   }
-  .margin-right-11 {
+  .md\:margin-right-11 {
     margin-right: 40px;
   }
-  .margin-right-12 {
+  .md\:margin-right-12 {
     margin-right: 48px;
   }
-  .margin-right-13 {
+  .md\:margin-right-13 {
     margin-right: 64px;
   }
-  .margin-right-14 {
+  .md\:margin-right-14 {
     margin-right: 80px;
   }
-  .margin-right-15 {
+  .md\:margin-right-15 {
     margin-right: 96px;
   }
-  .margin-right-16 {
+  .md\:margin-right-16 {
     margin-right: 128px;
   }
-  .margin-right-17 {
+  .md\:margin-right-17 {
     margin-right: 160px;
   }
-  .margin-right-18 {
+  .md\:margin-right-18 {
     margin-right: 192px;
   }
-  .margin-right-19 {
+  .md\:margin-right-19 {
     margin-right: 224px;
   }
-  .margin-right-20 {
+  .md\:margin-right-20 {
     margin-right: 256px;
   }
-  .margin-right-21 {
+  .md\:margin-right-21 {
     margin-right: 320px;
   }
-  .margin-right-22 {
+  .md\:margin-right-22 {
     margin-right: 480px;
   }
-  .margin-right-23 {
+  .md\:margin-right-23 {
     margin-right: 640px;
   }
 }
 @media (min-width: 900px) {
-  .margin-right-1 {
+  .lg\:margin-right-1 {
     margin-right: 0px;
   }
-  .margin-right-2 {
+  .lg\:margin-right-2 {
     margin-right: 4px;
   }
-  .margin-right-3 {
+  .lg\:margin-right-3 {
     margin-right: 6px;
   }
-  .margin-right-4 {
+  .lg\:margin-right-4 {
     margin-right: 8px;
   }
-  .margin-right-5 {
+  .lg\:margin-right-5 {
     margin-right: 10px;
   }
-  .margin-right-6 {
+  .lg\:margin-right-6 {
     margin-right: 12px;
   }
-  .margin-right-7 {
+  .lg\:margin-right-7 {
     margin-right: 16px;
   }
-  .margin-right-8 {
+  .lg\:margin-right-8 {
     margin-right: 20px;
   }
-  .margin-right-9 {
+  .lg\:margin-right-9 {
     margin-right: 24px;
   }
-  .margin-right-10 {
+  .lg\:margin-right-10 {
     margin-right: 32px;
   }
-  .margin-right-11 {
+  .lg\:margin-right-11 {
     margin-right: 40px;
   }
-  .margin-right-12 {
+  .lg\:margin-right-12 {
     margin-right: 48px;
   }
-  .margin-right-13 {
+  .lg\:margin-right-13 {
     margin-right: 64px;
   }
-  .margin-right-14 {
+  .lg\:margin-right-14 {
     margin-right: 80px;
   }
-  .margin-right-15 {
+  .lg\:margin-right-15 {
     margin-right: 96px;
   }
-  .margin-right-16 {
+  .lg\:margin-right-16 {
     margin-right: 128px;
   }
-  .margin-right-17 {
+  .lg\:margin-right-17 {
     margin-right: 160px;
   }
-  .margin-right-18 {
+  .lg\:margin-right-18 {
     margin-right: 192px;
   }
-  .margin-right-19 {
+  .lg\:margin-right-19 {
     margin-right: 224px;
   }
-  .margin-right-20 {
+  .lg\:margin-right-20 {
     margin-right: 256px;
   }
-  .margin-right-21 {
+  .lg\:margin-right-21 {
     margin-right: 320px;
   }
-  .margin-right-22 {
+  .lg\:margin-right-22 {
     margin-right: 480px;
   }
-  .margin-right-23 {
+  .lg\:margin-right-23 {
     margin-right: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .margin-right-1 {
+  .xl\:margin-right-1 {
     margin-right: 0px;
   }
-  .margin-right-2 {
+  .xl\:margin-right-2 {
     margin-right: 4px;
   }
-  .margin-right-3 {
+  .xl\:margin-right-3 {
     margin-right: 6px;
   }
-  .margin-right-4 {
+  .xl\:margin-right-4 {
     margin-right: 8px;
   }
-  .margin-right-5 {
+  .xl\:margin-right-5 {
     margin-right: 10px;
   }
-  .margin-right-6 {
+  .xl\:margin-right-6 {
     margin-right: 12px;
   }
-  .margin-right-7 {
+  .xl\:margin-right-7 {
     margin-right: 16px;
   }
-  .margin-right-8 {
+  .xl\:margin-right-8 {
     margin-right: 20px;
   }
-  .margin-right-9 {
+  .xl\:margin-right-9 {
     margin-right: 24px;
   }
-  .margin-right-10 {
+  .xl\:margin-right-10 {
     margin-right: 32px;
   }
-  .margin-right-11 {
+  .xl\:margin-right-11 {
     margin-right: 40px;
   }
-  .margin-right-12 {
+  .xl\:margin-right-12 {
     margin-right: 48px;
   }
-  .margin-right-13 {
+  .xl\:margin-right-13 {
     margin-right: 64px;
   }
-  .margin-right-14 {
+  .xl\:margin-right-14 {
     margin-right: 80px;
   }
-  .margin-right-15 {
+  .xl\:margin-right-15 {
     margin-right: 96px;
   }
-  .margin-right-16 {
+  .xl\:margin-right-16 {
     margin-right: 128px;
   }
-  .margin-right-17 {
+  .xl\:margin-right-17 {
     margin-right: 160px;
   }
-  .margin-right-18 {
+  .xl\:margin-right-18 {
     margin-right: 192px;
   }
-  .margin-right-19 {
+  .xl\:margin-right-19 {
     margin-right: 224px;
   }
-  .margin-right-20 {
+  .xl\:margin-right-20 {
     margin-right: 256px;
   }
-  .margin-right-21 {
+  .xl\:margin-right-21 {
     margin-right: 320px;
   }
-  .margin-right-22 {
+  .xl\:margin-right-22 {
     margin-right: 480px;
   }
-  .margin-right-23 {
+  .xl\:margin-right-23 {
     margin-right: 640px;
   }
 }
@@ -8037,286 +8037,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .margin-bottom-1 {
+  .sm\:margin-bottom-1 {
     margin-bottom: 0px;
   }
-  .margin-bottom-2 {
+  .sm\:margin-bottom-2 {
     margin-bottom: 4px;
   }
-  .margin-bottom-3 {
+  .sm\:margin-bottom-3 {
     margin-bottom: 6px;
   }
-  .margin-bottom-4 {
+  .sm\:margin-bottom-4 {
     margin-bottom: 8px;
   }
-  .margin-bottom-5 {
+  .sm\:margin-bottom-5 {
     margin-bottom: 10px;
   }
-  .margin-bottom-6 {
+  .sm\:margin-bottom-6 {
     margin-bottom: 12px;
   }
-  .margin-bottom-7 {
+  .sm\:margin-bottom-7 {
     margin-bottom: 16px;
   }
-  .margin-bottom-8 {
+  .sm\:margin-bottom-8 {
     margin-bottom: 20px;
   }
-  .margin-bottom-9 {
+  .sm\:margin-bottom-9 {
     margin-bottom: 24px;
   }
-  .margin-bottom-10 {
+  .sm\:margin-bottom-10 {
     margin-bottom: 32px;
   }
-  .margin-bottom-11 {
+  .sm\:margin-bottom-11 {
     margin-bottom: 40px;
   }
-  .margin-bottom-12 {
+  .sm\:margin-bottom-12 {
     margin-bottom: 48px;
   }
-  .margin-bottom-13 {
+  .sm\:margin-bottom-13 {
     margin-bottom: 64px;
   }
-  .margin-bottom-14 {
+  .sm\:margin-bottom-14 {
     margin-bottom: 80px;
   }
-  .margin-bottom-15 {
+  .sm\:margin-bottom-15 {
     margin-bottom: 96px;
   }
-  .margin-bottom-16 {
+  .sm\:margin-bottom-16 {
     margin-bottom: 128px;
   }
-  .margin-bottom-17 {
+  .sm\:margin-bottom-17 {
     margin-bottom: 160px;
   }
-  .margin-bottom-18 {
+  .sm\:margin-bottom-18 {
     margin-bottom: 192px;
   }
-  .margin-bottom-19 {
+  .sm\:margin-bottom-19 {
     margin-bottom: 224px;
   }
-  .margin-bottom-20 {
+  .sm\:margin-bottom-20 {
     margin-bottom: 256px;
   }
-  .margin-bottom-21 {
+  .sm\:margin-bottom-21 {
     margin-bottom: 320px;
   }
-  .margin-bottom-22 {
+  .sm\:margin-bottom-22 {
     margin-bottom: 480px;
   }
-  .margin-bottom-23 {
+  .sm\:margin-bottom-23 {
     margin-bottom: 640px;
   }
 }
 @media (min-width: 750px) {
-  .margin-bottom-1 {
+  .md\:margin-bottom-1 {
     margin-bottom: 0px;
   }
-  .margin-bottom-2 {
+  .md\:margin-bottom-2 {
     margin-bottom: 4px;
   }
-  .margin-bottom-3 {
+  .md\:margin-bottom-3 {
     margin-bottom: 6px;
   }
-  .margin-bottom-4 {
+  .md\:margin-bottom-4 {
     margin-bottom: 8px;
   }
-  .margin-bottom-5 {
+  .md\:margin-bottom-5 {
     margin-bottom: 10px;
   }
-  .margin-bottom-6 {
+  .md\:margin-bottom-6 {
     margin-bottom: 12px;
   }
-  .margin-bottom-7 {
+  .md\:margin-bottom-7 {
     margin-bottom: 16px;
   }
-  .margin-bottom-8 {
+  .md\:margin-bottom-8 {
     margin-bottom: 20px;
   }
-  .margin-bottom-9 {
+  .md\:margin-bottom-9 {
     margin-bottom: 24px;
   }
-  .margin-bottom-10 {
+  .md\:margin-bottom-10 {
     margin-bottom: 32px;
   }
-  .margin-bottom-11 {
+  .md\:margin-bottom-11 {
     margin-bottom: 40px;
   }
-  .margin-bottom-12 {
+  .md\:margin-bottom-12 {
     margin-bottom: 48px;
   }
-  .margin-bottom-13 {
+  .md\:margin-bottom-13 {
     margin-bottom: 64px;
   }
-  .margin-bottom-14 {
+  .md\:margin-bottom-14 {
     margin-bottom: 80px;
   }
-  .margin-bottom-15 {
+  .md\:margin-bottom-15 {
     margin-bottom: 96px;
   }
-  .margin-bottom-16 {
+  .md\:margin-bottom-16 {
     margin-bottom: 128px;
   }
-  .margin-bottom-17 {
+  .md\:margin-bottom-17 {
     margin-bottom: 160px;
   }
-  .margin-bottom-18 {
+  .md\:margin-bottom-18 {
     margin-bottom: 192px;
   }
-  .margin-bottom-19 {
+  .md\:margin-bottom-19 {
     margin-bottom: 224px;
   }
-  .margin-bottom-20 {
+  .md\:margin-bottom-20 {
     margin-bottom: 256px;
   }
-  .margin-bottom-21 {
+  .md\:margin-bottom-21 {
     margin-bottom: 320px;
   }
-  .margin-bottom-22 {
+  .md\:margin-bottom-22 {
     margin-bottom: 480px;
   }
-  .margin-bottom-23 {
+  .md\:margin-bottom-23 {
     margin-bottom: 640px;
   }
 }
 @media (min-width: 900px) {
-  .margin-bottom-1 {
+  .lg\:margin-bottom-1 {
     margin-bottom: 0px;
   }
-  .margin-bottom-2 {
+  .lg\:margin-bottom-2 {
     margin-bottom: 4px;
   }
-  .margin-bottom-3 {
+  .lg\:margin-bottom-3 {
     margin-bottom: 6px;
   }
-  .margin-bottom-4 {
+  .lg\:margin-bottom-4 {
     margin-bottom: 8px;
   }
-  .margin-bottom-5 {
+  .lg\:margin-bottom-5 {
     margin-bottom: 10px;
   }
-  .margin-bottom-6 {
+  .lg\:margin-bottom-6 {
     margin-bottom: 12px;
   }
-  .margin-bottom-7 {
+  .lg\:margin-bottom-7 {
     margin-bottom: 16px;
   }
-  .margin-bottom-8 {
+  .lg\:margin-bottom-8 {
     margin-bottom: 20px;
   }
-  .margin-bottom-9 {
+  .lg\:margin-bottom-9 {
     margin-bottom: 24px;
   }
-  .margin-bottom-10 {
+  .lg\:margin-bottom-10 {
     margin-bottom: 32px;
   }
-  .margin-bottom-11 {
+  .lg\:margin-bottom-11 {
     margin-bottom: 40px;
   }
-  .margin-bottom-12 {
+  .lg\:margin-bottom-12 {
     margin-bottom: 48px;
   }
-  .margin-bottom-13 {
+  .lg\:margin-bottom-13 {
     margin-bottom: 64px;
   }
-  .margin-bottom-14 {
+  .lg\:margin-bottom-14 {
     margin-bottom: 80px;
   }
-  .margin-bottom-15 {
+  .lg\:margin-bottom-15 {
     margin-bottom: 96px;
   }
-  .margin-bottom-16 {
+  .lg\:margin-bottom-16 {
     margin-bottom: 128px;
   }
-  .margin-bottom-17 {
+  .lg\:margin-bottom-17 {
     margin-bottom: 160px;
   }
-  .margin-bottom-18 {
+  .lg\:margin-bottom-18 {
     margin-bottom: 192px;
   }
-  .margin-bottom-19 {
+  .lg\:margin-bottom-19 {
     margin-bottom: 224px;
   }
-  .margin-bottom-20 {
+  .lg\:margin-bottom-20 {
     margin-bottom: 256px;
   }
-  .margin-bottom-21 {
+  .lg\:margin-bottom-21 {
     margin-bottom: 320px;
   }
-  .margin-bottom-22 {
+  .lg\:margin-bottom-22 {
     margin-bottom: 480px;
   }
-  .margin-bottom-23 {
+  .lg\:margin-bottom-23 {
     margin-bottom: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .margin-bottom-1 {
+  .xl\:margin-bottom-1 {
     margin-bottom: 0px;
   }
-  .margin-bottom-2 {
+  .xl\:margin-bottom-2 {
     margin-bottom: 4px;
   }
-  .margin-bottom-3 {
+  .xl\:margin-bottom-3 {
     margin-bottom: 6px;
   }
-  .margin-bottom-4 {
+  .xl\:margin-bottom-4 {
     margin-bottom: 8px;
   }
-  .margin-bottom-5 {
+  .xl\:margin-bottom-5 {
     margin-bottom: 10px;
   }
-  .margin-bottom-6 {
+  .xl\:margin-bottom-6 {
     margin-bottom: 12px;
   }
-  .margin-bottom-7 {
+  .xl\:margin-bottom-7 {
     margin-bottom: 16px;
   }
-  .margin-bottom-8 {
+  .xl\:margin-bottom-8 {
     margin-bottom: 20px;
   }
-  .margin-bottom-9 {
+  .xl\:margin-bottom-9 {
     margin-bottom: 24px;
   }
-  .margin-bottom-10 {
+  .xl\:margin-bottom-10 {
     margin-bottom: 32px;
   }
-  .margin-bottom-11 {
+  .xl\:margin-bottom-11 {
     margin-bottom: 40px;
   }
-  .margin-bottom-12 {
+  .xl\:margin-bottom-12 {
     margin-bottom: 48px;
   }
-  .margin-bottom-13 {
+  .xl\:margin-bottom-13 {
     margin-bottom: 64px;
   }
-  .margin-bottom-14 {
+  .xl\:margin-bottom-14 {
     margin-bottom: 80px;
   }
-  .margin-bottom-15 {
+  .xl\:margin-bottom-15 {
     margin-bottom: 96px;
   }
-  .margin-bottom-16 {
+  .xl\:margin-bottom-16 {
     margin-bottom: 128px;
   }
-  .margin-bottom-17 {
+  .xl\:margin-bottom-17 {
     margin-bottom: 160px;
   }
-  .margin-bottom-18 {
+  .xl\:margin-bottom-18 {
     margin-bottom: 192px;
   }
-  .margin-bottom-19 {
+  .xl\:margin-bottom-19 {
     margin-bottom: 224px;
   }
-  .margin-bottom-20 {
+  .xl\:margin-bottom-20 {
     margin-bottom: 256px;
   }
-  .margin-bottom-21 {
+  .xl\:margin-bottom-21 {
     margin-bottom: 320px;
   }
-  .margin-bottom-22 {
+  .xl\:margin-bottom-22 {
     margin-bottom: 480px;
   }
-  .margin-bottom-23 {
+  .xl\:margin-bottom-23 {
     margin-bottom: 640px;
   }
 }
@@ -8413,286 +8413,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .margin-left-1 {
+  .sm\:margin-left-1 {
     margin-left: 0px;
   }
-  .margin-left-2 {
+  .sm\:margin-left-2 {
     margin-left: 4px;
   }
-  .margin-left-3 {
+  .sm\:margin-left-3 {
     margin-left: 6px;
   }
-  .margin-left-4 {
+  .sm\:margin-left-4 {
     margin-left: 8px;
   }
-  .margin-left-5 {
+  .sm\:margin-left-5 {
     margin-left: 10px;
   }
-  .margin-left-6 {
+  .sm\:margin-left-6 {
     margin-left: 12px;
   }
-  .margin-left-7 {
+  .sm\:margin-left-7 {
     margin-left: 16px;
   }
-  .margin-left-8 {
+  .sm\:margin-left-8 {
     margin-left: 20px;
   }
-  .margin-left-9 {
+  .sm\:margin-left-9 {
     margin-left: 24px;
   }
-  .margin-left-10 {
+  .sm\:margin-left-10 {
     margin-left: 32px;
   }
-  .margin-left-11 {
+  .sm\:margin-left-11 {
     margin-left: 40px;
   }
-  .margin-left-12 {
+  .sm\:margin-left-12 {
     margin-left: 48px;
   }
-  .margin-left-13 {
+  .sm\:margin-left-13 {
     margin-left: 64px;
   }
-  .margin-left-14 {
+  .sm\:margin-left-14 {
     margin-left: 80px;
   }
-  .margin-left-15 {
+  .sm\:margin-left-15 {
     margin-left: 96px;
   }
-  .margin-left-16 {
+  .sm\:margin-left-16 {
     margin-left: 128px;
   }
-  .margin-left-17 {
+  .sm\:margin-left-17 {
     margin-left: 160px;
   }
-  .margin-left-18 {
+  .sm\:margin-left-18 {
     margin-left: 192px;
   }
-  .margin-left-19 {
+  .sm\:margin-left-19 {
     margin-left: 224px;
   }
-  .margin-left-20 {
+  .sm\:margin-left-20 {
     margin-left: 256px;
   }
-  .margin-left-21 {
+  .sm\:margin-left-21 {
     margin-left: 320px;
   }
-  .margin-left-22 {
+  .sm\:margin-left-22 {
     margin-left: 480px;
   }
-  .margin-left-23 {
+  .sm\:margin-left-23 {
     margin-left: 640px;
   }
 }
 @media (min-width: 750px) {
-  .margin-left-1 {
+  .md\:margin-left-1 {
     margin-left: 0px;
   }
-  .margin-left-2 {
+  .md\:margin-left-2 {
     margin-left: 4px;
   }
-  .margin-left-3 {
+  .md\:margin-left-3 {
     margin-left: 6px;
   }
-  .margin-left-4 {
+  .md\:margin-left-4 {
     margin-left: 8px;
   }
-  .margin-left-5 {
+  .md\:margin-left-5 {
     margin-left: 10px;
   }
-  .margin-left-6 {
+  .md\:margin-left-6 {
     margin-left: 12px;
   }
-  .margin-left-7 {
+  .md\:margin-left-7 {
     margin-left: 16px;
   }
-  .margin-left-8 {
+  .md\:margin-left-8 {
     margin-left: 20px;
   }
-  .margin-left-9 {
+  .md\:margin-left-9 {
     margin-left: 24px;
   }
-  .margin-left-10 {
+  .md\:margin-left-10 {
     margin-left: 32px;
   }
-  .margin-left-11 {
+  .md\:margin-left-11 {
     margin-left: 40px;
   }
-  .margin-left-12 {
+  .md\:margin-left-12 {
     margin-left: 48px;
   }
-  .margin-left-13 {
+  .md\:margin-left-13 {
     margin-left: 64px;
   }
-  .margin-left-14 {
+  .md\:margin-left-14 {
     margin-left: 80px;
   }
-  .margin-left-15 {
+  .md\:margin-left-15 {
     margin-left: 96px;
   }
-  .margin-left-16 {
+  .md\:margin-left-16 {
     margin-left: 128px;
   }
-  .margin-left-17 {
+  .md\:margin-left-17 {
     margin-left: 160px;
   }
-  .margin-left-18 {
+  .md\:margin-left-18 {
     margin-left: 192px;
   }
-  .margin-left-19 {
+  .md\:margin-left-19 {
     margin-left: 224px;
   }
-  .margin-left-20 {
+  .md\:margin-left-20 {
     margin-left: 256px;
   }
-  .margin-left-21 {
+  .md\:margin-left-21 {
     margin-left: 320px;
   }
-  .margin-left-22 {
+  .md\:margin-left-22 {
     margin-left: 480px;
   }
-  .margin-left-23 {
+  .md\:margin-left-23 {
     margin-left: 640px;
   }
 }
 @media (min-width: 900px) {
-  .margin-left-1 {
+  .lg\:margin-left-1 {
     margin-left: 0px;
   }
-  .margin-left-2 {
+  .lg\:margin-left-2 {
     margin-left: 4px;
   }
-  .margin-left-3 {
+  .lg\:margin-left-3 {
     margin-left: 6px;
   }
-  .margin-left-4 {
+  .lg\:margin-left-4 {
     margin-left: 8px;
   }
-  .margin-left-5 {
+  .lg\:margin-left-5 {
     margin-left: 10px;
   }
-  .margin-left-6 {
+  .lg\:margin-left-6 {
     margin-left: 12px;
   }
-  .margin-left-7 {
+  .lg\:margin-left-7 {
     margin-left: 16px;
   }
-  .margin-left-8 {
+  .lg\:margin-left-8 {
     margin-left: 20px;
   }
-  .margin-left-9 {
+  .lg\:margin-left-9 {
     margin-left: 24px;
   }
-  .margin-left-10 {
+  .lg\:margin-left-10 {
     margin-left: 32px;
   }
-  .margin-left-11 {
+  .lg\:margin-left-11 {
     margin-left: 40px;
   }
-  .margin-left-12 {
+  .lg\:margin-left-12 {
     margin-left: 48px;
   }
-  .margin-left-13 {
+  .lg\:margin-left-13 {
     margin-left: 64px;
   }
-  .margin-left-14 {
+  .lg\:margin-left-14 {
     margin-left: 80px;
   }
-  .margin-left-15 {
+  .lg\:margin-left-15 {
     margin-left: 96px;
   }
-  .margin-left-16 {
+  .lg\:margin-left-16 {
     margin-left: 128px;
   }
-  .margin-left-17 {
+  .lg\:margin-left-17 {
     margin-left: 160px;
   }
-  .margin-left-18 {
+  .lg\:margin-left-18 {
     margin-left: 192px;
   }
-  .margin-left-19 {
+  .lg\:margin-left-19 {
     margin-left: 224px;
   }
-  .margin-left-20 {
+  .lg\:margin-left-20 {
     margin-left: 256px;
   }
-  .margin-left-21 {
+  .lg\:margin-left-21 {
     margin-left: 320px;
   }
-  .margin-left-22 {
+  .lg\:margin-left-22 {
     margin-left: 480px;
   }
-  .margin-left-23 {
+  .lg\:margin-left-23 {
     margin-left: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .margin-left-1 {
+  .xl\:margin-left-1 {
     margin-left: 0px;
   }
-  .margin-left-2 {
+  .xl\:margin-left-2 {
     margin-left: 4px;
   }
-  .margin-left-3 {
+  .xl\:margin-left-3 {
     margin-left: 6px;
   }
-  .margin-left-4 {
+  .xl\:margin-left-4 {
     margin-left: 8px;
   }
-  .margin-left-5 {
+  .xl\:margin-left-5 {
     margin-left: 10px;
   }
-  .margin-left-6 {
+  .xl\:margin-left-6 {
     margin-left: 12px;
   }
-  .margin-left-7 {
+  .xl\:margin-left-7 {
     margin-left: 16px;
   }
-  .margin-left-8 {
+  .xl\:margin-left-8 {
     margin-left: 20px;
   }
-  .margin-left-9 {
+  .xl\:margin-left-9 {
     margin-left: 24px;
   }
-  .margin-left-10 {
+  .xl\:margin-left-10 {
     margin-left: 32px;
   }
-  .margin-left-11 {
+  .xl\:margin-left-11 {
     margin-left: 40px;
   }
-  .margin-left-12 {
+  .xl\:margin-left-12 {
     margin-left: 48px;
   }
-  .margin-left-13 {
+  .xl\:margin-left-13 {
     margin-left: 64px;
   }
-  .margin-left-14 {
+  .xl\:margin-left-14 {
     margin-left: 80px;
   }
-  .margin-left-15 {
+  .xl\:margin-left-15 {
     margin-left: 96px;
   }
-  .margin-left-16 {
+  .xl\:margin-left-16 {
     margin-left: 128px;
   }
-  .margin-left-17 {
+  .xl\:margin-left-17 {
     margin-left: 160px;
   }
-  .margin-left-18 {
+  .xl\:margin-left-18 {
     margin-left: 192px;
   }
-  .margin-left-19 {
+  .xl\:margin-left-19 {
     margin-left: 224px;
   }
-  .margin-left-20 {
+  .xl\:margin-left-20 {
     margin-left: 256px;
   }
-  .margin-left-21 {
+  .xl\:margin-left-21 {
     margin-left: 320px;
   }
-  .margin-left-22 {
+  .xl\:margin-left-22 {
     margin-left: 480px;
   }
-  .margin-left-23 {
+  .xl\:margin-left-23 {
     margin-left: 640px;
   }
 }
@@ -9344,377 +9344,377 @@ template {
 }
 
 @media (min-width: 550px) {
-  .padding-x-1 {
+  .sm\:padding-x-1 {
     padding-left: 0px;
     padding-right: 0px;
   }
-  .padding-x-2 {
+  .sm\:padding-x-2 {
     padding-left: 4px;
     padding-right: 4px;
   }
-  .padding-x-3 {
+  .sm\:padding-x-3 {
     padding-left: 6px;
     padding-right: 6px;
   }
-  .padding-x-4 {
+  .sm\:padding-x-4 {
     padding-left: 8px;
     padding-right: 8px;
   }
-  .padding-x-5 {
+  .sm\:padding-x-5 {
     padding-left: 10px;
     padding-right: 10px;
   }
-  .padding-x-6 {
+  .sm\:padding-x-6 {
     padding-left: 12px;
     padding-right: 12px;
   }
-  .padding-x-7 {
+  .sm\:padding-x-7 {
     padding-left: 16px;
     padding-right: 16px;
   }
-  .padding-x-8 {
+  .sm\:padding-x-8 {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .padding-x-9 {
+  .sm\:padding-x-9 {
     padding-left: 24px;
     padding-right: 24px;
   }
-  .padding-x-10 {
+  .sm\:padding-x-10 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .padding-x-11 {
+  .sm\:padding-x-11 {
     padding-left: 40px;
     padding-right: 40px;
   }
-  .padding-x-12 {
+  .sm\:padding-x-12 {
     padding-left: 48px;
     padding-right: 48px;
   }
-  .padding-x-13 {
+  .sm\:padding-x-13 {
     padding-left: 64px;
     padding-right: 64px;
   }
-  .padding-x-14 {
+  .sm\:padding-x-14 {
     padding-left: 80px;
     padding-right: 80px;
   }
-  .padding-x-15 {
+  .sm\:padding-x-15 {
     padding-left: 96px;
     padding-right: 96px;
   }
-  .padding-x-16 {
+  .sm\:padding-x-16 {
     padding-left: 128px;
     padding-right: 128px;
   }
-  .padding-x-17 {
+  .sm\:padding-x-17 {
     padding-left: 160px;
     padding-right: 160px;
   }
-  .padding-x-18 {
+  .sm\:padding-x-18 {
     padding-left: 192px;
     padding-right: 192px;
   }
-  .padding-x-19 {
+  .sm\:padding-x-19 {
     padding-left: 224px;
     padding-right: 224px;
   }
-  .padding-x-20 {
+  .sm\:padding-x-20 {
     padding-left: 256px;
     padding-right: 256px;
   }
-  .padding-x-21 {
+  .sm\:padding-x-21 {
     padding-left: 320px;
     padding-right: 320px;
   }
-  .padding-x-22 {
+  .sm\:padding-x-22 {
     padding-left: 480px;
     padding-right: 480px;
   }
-  .padding-x-23 {
+  .sm\:padding-x-23 {
     padding-left: 640px;
     padding-right: 640px;
   }
 }
 @media (min-width: 750px) {
-  .padding-x-1 {
+  .md\:padding-x-1 {
     padding-left: 0px;
     padding-right: 0px;
   }
-  .padding-x-2 {
+  .md\:padding-x-2 {
     padding-left: 4px;
     padding-right: 4px;
   }
-  .padding-x-3 {
+  .md\:padding-x-3 {
     padding-left: 6px;
     padding-right: 6px;
   }
-  .padding-x-4 {
+  .md\:padding-x-4 {
     padding-left: 8px;
     padding-right: 8px;
   }
-  .padding-x-5 {
+  .md\:padding-x-5 {
     padding-left: 10px;
     padding-right: 10px;
   }
-  .padding-x-6 {
+  .md\:padding-x-6 {
     padding-left: 12px;
     padding-right: 12px;
   }
-  .padding-x-7 {
+  .md\:padding-x-7 {
     padding-left: 16px;
     padding-right: 16px;
   }
-  .padding-x-8 {
+  .md\:padding-x-8 {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .padding-x-9 {
+  .md\:padding-x-9 {
     padding-left: 24px;
     padding-right: 24px;
   }
-  .padding-x-10 {
+  .md\:padding-x-10 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .padding-x-11 {
+  .md\:padding-x-11 {
     padding-left: 40px;
     padding-right: 40px;
   }
-  .padding-x-12 {
+  .md\:padding-x-12 {
     padding-left: 48px;
     padding-right: 48px;
   }
-  .padding-x-13 {
+  .md\:padding-x-13 {
     padding-left: 64px;
     padding-right: 64px;
   }
-  .padding-x-14 {
+  .md\:padding-x-14 {
     padding-left: 80px;
     padding-right: 80px;
   }
-  .padding-x-15 {
+  .md\:padding-x-15 {
     padding-left: 96px;
     padding-right: 96px;
   }
-  .padding-x-16 {
+  .md\:padding-x-16 {
     padding-left: 128px;
     padding-right: 128px;
   }
-  .padding-x-17 {
+  .md\:padding-x-17 {
     padding-left: 160px;
     padding-right: 160px;
   }
-  .padding-x-18 {
+  .md\:padding-x-18 {
     padding-left: 192px;
     padding-right: 192px;
   }
-  .padding-x-19 {
+  .md\:padding-x-19 {
     padding-left: 224px;
     padding-right: 224px;
   }
-  .padding-x-20 {
+  .md\:padding-x-20 {
     padding-left: 256px;
     padding-right: 256px;
   }
-  .padding-x-21 {
+  .md\:padding-x-21 {
     padding-left: 320px;
     padding-right: 320px;
   }
-  .padding-x-22 {
+  .md\:padding-x-22 {
     padding-left: 480px;
     padding-right: 480px;
   }
-  .padding-x-23 {
+  .md\:padding-x-23 {
     padding-left: 640px;
     padding-right: 640px;
   }
 }
 @media (min-width: 900px) {
-  .padding-x-1 {
+  .lg\:padding-x-1 {
     padding-left: 0px;
     padding-right: 0px;
   }
-  .padding-x-2 {
+  .lg\:padding-x-2 {
     padding-left: 4px;
     padding-right: 4px;
   }
-  .padding-x-3 {
+  .lg\:padding-x-3 {
     padding-left: 6px;
     padding-right: 6px;
   }
-  .padding-x-4 {
+  .lg\:padding-x-4 {
     padding-left: 8px;
     padding-right: 8px;
   }
-  .padding-x-5 {
+  .lg\:padding-x-5 {
     padding-left: 10px;
     padding-right: 10px;
   }
-  .padding-x-6 {
+  .lg\:padding-x-6 {
     padding-left: 12px;
     padding-right: 12px;
   }
-  .padding-x-7 {
+  .lg\:padding-x-7 {
     padding-left: 16px;
     padding-right: 16px;
   }
-  .padding-x-8 {
+  .lg\:padding-x-8 {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .padding-x-9 {
+  .lg\:padding-x-9 {
     padding-left: 24px;
     padding-right: 24px;
   }
-  .padding-x-10 {
+  .lg\:padding-x-10 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .padding-x-11 {
+  .lg\:padding-x-11 {
     padding-left: 40px;
     padding-right: 40px;
   }
-  .padding-x-12 {
+  .lg\:padding-x-12 {
     padding-left: 48px;
     padding-right: 48px;
   }
-  .padding-x-13 {
+  .lg\:padding-x-13 {
     padding-left: 64px;
     padding-right: 64px;
   }
-  .padding-x-14 {
+  .lg\:padding-x-14 {
     padding-left: 80px;
     padding-right: 80px;
   }
-  .padding-x-15 {
+  .lg\:padding-x-15 {
     padding-left: 96px;
     padding-right: 96px;
   }
-  .padding-x-16 {
+  .lg\:padding-x-16 {
     padding-left: 128px;
     padding-right: 128px;
   }
-  .padding-x-17 {
+  .lg\:padding-x-17 {
     padding-left: 160px;
     padding-right: 160px;
   }
-  .padding-x-18 {
+  .lg\:padding-x-18 {
     padding-left: 192px;
     padding-right: 192px;
   }
-  .padding-x-19 {
+  .lg\:padding-x-19 {
     padding-left: 224px;
     padding-right: 224px;
   }
-  .padding-x-20 {
+  .lg\:padding-x-20 {
     padding-left: 256px;
     padding-right: 256px;
   }
-  .padding-x-21 {
+  .lg\:padding-x-21 {
     padding-left: 320px;
     padding-right: 320px;
   }
-  .padding-x-22 {
+  .lg\:padding-x-22 {
     padding-left: 480px;
     padding-right: 480px;
   }
-  .padding-x-23 {
+  .lg\:padding-x-23 {
     padding-left: 640px;
     padding-right: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .padding-x-1 {
+  .xl\:padding-x-1 {
     padding-left: 0px;
     padding-right: 0px;
   }
-  .padding-x-2 {
+  .xl\:padding-x-2 {
     padding-left: 4px;
     padding-right: 4px;
   }
-  .padding-x-3 {
+  .xl\:padding-x-3 {
     padding-left: 6px;
     padding-right: 6px;
   }
-  .padding-x-4 {
+  .xl\:padding-x-4 {
     padding-left: 8px;
     padding-right: 8px;
   }
-  .padding-x-5 {
+  .xl\:padding-x-5 {
     padding-left: 10px;
     padding-right: 10px;
   }
-  .padding-x-6 {
+  .xl\:padding-x-6 {
     padding-left: 12px;
     padding-right: 12px;
   }
-  .padding-x-7 {
+  .xl\:padding-x-7 {
     padding-left: 16px;
     padding-right: 16px;
   }
-  .padding-x-8 {
+  .xl\:padding-x-8 {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .padding-x-9 {
+  .xl\:padding-x-9 {
     padding-left: 24px;
     padding-right: 24px;
   }
-  .padding-x-10 {
+  .xl\:padding-x-10 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .padding-x-11 {
+  .xl\:padding-x-11 {
     padding-left: 40px;
     padding-right: 40px;
   }
-  .padding-x-12 {
+  .xl\:padding-x-12 {
     padding-left: 48px;
     padding-right: 48px;
   }
-  .padding-x-13 {
+  .xl\:padding-x-13 {
     padding-left: 64px;
     padding-right: 64px;
   }
-  .padding-x-14 {
+  .xl\:padding-x-14 {
     padding-left: 80px;
     padding-right: 80px;
   }
-  .padding-x-15 {
+  .xl\:padding-x-15 {
     padding-left: 96px;
     padding-right: 96px;
   }
-  .padding-x-16 {
+  .xl\:padding-x-16 {
     padding-left: 128px;
     padding-right: 128px;
   }
-  .padding-x-17 {
+  .xl\:padding-x-17 {
     padding-left: 160px;
     padding-right: 160px;
   }
-  .padding-x-18 {
+  .xl\:padding-x-18 {
     padding-left: 192px;
     padding-right: 192px;
   }
-  .padding-x-19 {
+  .xl\:padding-x-19 {
     padding-left: 224px;
     padding-right: 224px;
   }
-  .padding-x-20 {
+  .xl\:padding-x-20 {
     padding-left: 256px;
     padding-right: 256px;
   }
-  .padding-x-21 {
+  .xl\:padding-x-21 {
     padding-left: 320px;
     padding-right: 320px;
   }
-  .padding-x-22 {
+  .xl\:padding-x-22 {
     padding-left: 480px;
     padding-right: 480px;
   }
-  .padding-x-23 {
+  .xl\:padding-x-23 {
     padding-left: 640px;
     padding-right: 640px;
   }
@@ -9835,377 +9835,377 @@ template {
 }
 
 @media (min-width: 550px) {
-  .padding-y-1 {
+  .sm\:padding-y-1 {
     padding-top: 0px;
     padding-bottom: 0px;
   }
-  .padding-y-2 {
+  .sm\:padding-y-2 {
     padding-top: 4px;
     padding-bottom: 4px;
   }
-  .padding-y-3 {
+  .sm\:padding-y-3 {
     padding-top: 6px;
     padding-bottom: 6px;
   }
-  .padding-y-4 {
+  .sm\:padding-y-4 {
     padding-top: 8px;
     padding-bottom: 8px;
   }
-  .padding-y-5 {
+  .sm\:padding-y-5 {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  .padding-y-6 {
+  .sm\:padding-y-6 {
     padding-top: 12px;
     padding-bottom: 12px;
   }
-  .padding-y-7 {
+  .sm\:padding-y-7 {
     padding-top: 16px;
     padding-bottom: 16px;
   }
-  .padding-y-8 {
+  .sm\:padding-y-8 {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .padding-y-9 {
+  .sm\:padding-y-9 {
     padding-top: 24px;
     padding-bottom: 24px;
   }
-  .padding-y-10 {
+  .sm\:padding-y-10 {
     padding-top: 32px;
     padding-bottom: 32px;
   }
-  .padding-y-11 {
+  .sm\:padding-y-11 {
     padding-top: 40px;
     padding-bottom: 40px;
   }
-  .padding-y-12 {
+  .sm\:padding-y-12 {
     padding-top: 48px;
     padding-bottom: 48px;
   }
-  .padding-y-13 {
+  .sm\:padding-y-13 {
     padding-top: 64px;
     padding-bottom: 64px;
   }
-  .padding-y-14 {
+  .sm\:padding-y-14 {
     padding-top: 80px;
     padding-bottom: 80px;
   }
-  .padding-y-15 {
+  .sm\:padding-y-15 {
     padding-top: 96px;
     padding-bottom: 96px;
   }
-  .padding-y-16 {
+  .sm\:padding-y-16 {
     padding-top: 128px;
     padding-bottom: 128px;
   }
-  .padding-y-17 {
+  .sm\:padding-y-17 {
     padding-top: 160px;
     padding-bottom: 160px;
   }
-  .padding-y-18 {
+  .sm\:padding-y-18 {
     padding-top: 192px;
     padding-bottom: 192px;
   }
-  .padding-y-19 {
+  .sm\:padding-y-19 {
     padding-top: 224px;
     padding-bottom: 224px;
   }
-  .padding-y-20 {
+  .sm\:padding-y-20 {
     padding-top: 256px;
     padding-bottom: 256px;
   }
-  .padding-y-21 {
+  .sm\:padding-y-21 {
     padding-top: 320px;
     padding-bottom: 320px;
   }
-  .padding-y-22 {
+  .sm\:padding-y-22 {
     padding-top: 480px;
     padding-bottom: 480px;
   }
-  .padding-y-23 {
+  .sm\:padding-y-23 {
     padding-top: 640px;
     padding-bottom: 640px;
   }
 }
 @media (min-width: 750px) {
-  .padding-y-1 {
+  .md\:padding-y-1 {
     padding-top: 0px;
     padding-bottom: 0px;
   }
-  .padding-y-2 {
+  .md\:padding-y-2 {
     padding-top: 4px;
     padding-bottom: 4px;
   }
-  .padding-y-3 {
+  .md\:padding-y-3 {
     padding-top: 6px;
     padding-bottom: 6px;
   }
-  .padding-y-4 {
+  .md\:padding-y-4 {
     padding-top: 8px;
     padding-bottom: 8px;
   }
-  .padding-y-5 {
+  .md\:padding-y-5 {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  .padding-y-6 {
+  .md\:padding-y-6 {
     padding-top: 12px;
     padding-bottom: 12px;
   }
-  .padding-y-7 {
+  .md\:padding-y-7 {
     padding-top: 16px;
     padding-bottom: 16px;
   }
-  .padding-y-8 {
+  .md\:padding-y-8 {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .padding-y-9 {
+  .md\:padding-y-9 {
     padding-top: 24px;
     padding-bottom: 24px;
   }
-  .padding-y-10 {
+  .md\:padding-y-10 {
     padding-top: 32px;
     padding-bottom: 32px;
   }
-  .padding-y-11 {
+  .md\:padding-y-11 {
     padding-top: 40px;
     padding-bottom: 40px;
   }
-  .padding-y-12 {
+  .md\:padding-y-12 {
     padding-top: 48px;
     padding-bottom: 48px;
   }
-  .padding-y-13 {
+  .md\:padding-y-13 {
     padding-top: 64px;
     padding-bottom: 64px;
   }
-  .padding-y-14 {
+  .md\:padding-y-14 {
     padding-top: 80px;
     padding-bottom: 80px;
   }
-  .padding-y-15 {
+  .md\:padding-y-15 {
     padding-top: 96px;
     padding-bottom: 96px;
   }
-  .padding-y-16 {
+  .md\:padding-y-16 {
     padding-top: 128px;
     padding-bottom: 128px;
   }
-  .padding-y-17 {
+  .md\:padding-y-17 {
     padding-top: 160px;
     padding-bottom: 160px;
   }
-  .padding-y-18 {
+  .md\:padding-y-18 {
     padding-top: 192px;
     padding-bottom: 192px;
   }
-  .padding-y-19 {
+  .md\:padding-y-19 {
     padding-top: 224px;
     padding-bottom: 224px;
   }
-  .padding-y-20 {
+  .md\:padding-y-20 {
     padding-top: 256px;
     padding-bottom: 256px;
   }
-  .padding-y-21 {
+  .md\:padding-y-21 {
     padding-top: 320px;
     padding-bottom: 320px;
   }
-  .padding-y-22 {
+  .md\:padding-y-22 {
     padding-top: 480px;
     padding-bottom: 480px;
   }
-  .padding-y-23 {
+  .md\:padding-y-23 {
     padding-top: 640px;
     padding-bottom: 640px;
   }
 }
 @media (min-width: 900px) {
-  .padding-y-1 {
+  .lg\:padding-y-1 {
     padding-top: 0px;
     padding-bottom: 0px;
   }
-  .padding-y-2 {
+  .lg\:padding-y-2 {
     padding-top: 4px;
     padding-bottom: 4px;
   }
-  .padding-y-3 {
+  .lg\:padding-y-3 {
     padding-top: 6px;
     padding-bottom: 6px;
   }
-  .padding-y-4 {
+  .lg\:padding-y-4 {
     padding-top: 8px;
     padding-bottom: 8px;
   }
-  .padding-y-5 {
+  .lg\:padding-y-5 {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  .padding-y-6 {
+  .lg\:padding-y-6 {
     padding-top: 12px;
     padding-bottom: 12px;
   }
-  .padding-y-7 {
+  .lg\:padding-y-7 {
     padding-top: 16px;
     padding-bottom: 16px;
   }
-  .padding-y-8 {
+  .lg\:padding-y-8 {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .padding-y-9 {
+  .lg\:padding-y-9 {
     padding-top: 24px;
     padding-bottom: 24px;
   }
-  .padding-y-10 {
+  .lg\:padding-y-10 {
     padding-top: 32px;
     padding-bottom: 32px;
   }
-  .padding-y-11 {
+  .lg\:padding-y-11 {
     padding-top: 40px;
     padding-bottom: 40px;
   }
-  .padding-y-12 {
+  .lg\:padding-y-12 {
     padding-top: 48px;
     padding-bottom: 48px;
   }
-  .padding-y-13 {
+  .lg\:padding-y-13 {
     padding-top: 64px;
     padding-bottom: 64px;
   }
-  .padding-y-14 {
+  .lg\:padding-y-14 {
     padding-top: 80px;
     padding-bottom: 80px;
   }
-  .padding-y-15 {
+  .lg\:padding-y-15 {
     padding-top: 96px;
     padding-bottom: 96px;
   }
-  .padding-y-16 {
+  .lg\:padding-y-16 {
     padding-top: 128px;
     padding-bottom: 128px;
   }
-  .padding-y-17 {
+  .lg\:padding-y-17 {
     padding-top: 160px;
     padding-bottom: 160px;
   }
-  .padding-y-18 {
+  .lg\:padding-y-18 {
     padding-top: 192px;
     padding-bottom: 192px;
   }
-  .padding-y-19 {
+  .lg\:padding-y-19 {
     padding-top: 224px;
     padding-bottom: 224px;
   }
-  .padding-y-20 {
+  .lg\:padding-y-20 {
     padding-top: 256px;
     padding-bottom: 256px;
   }
-  .padding-y-21 {
+  .lg\:padding-y-21 {
     padding-top: 320px;
     padding-bottom: 320px;
   }
-  .padding-y-22 {
+  .lg\:padding-y-22 {
     padding-top: 480px;
     padding-bottom: 480px;
   }
-  .padding-y-23 {
+  .lg\:padding-y-23 {
     padding-top: 640px;
     padding-bottom: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .padding-y-1 {
+  .xl\:padding-y-1 {
     padding-top: 0px;
     padding-bottom: 0px;
   }
-  .padding-y-2 {
+  .xl\:padding-y-2 {
     padding-top: 4px;
     padding-bottom: 4px;
   }
-  .padding-y-3 {
+  .xl\:padding-y-3 {
     padding-top: 6px;
     padding-bottom: 6px;
   }
-  .padding-y-4 {
+  .xl\:padding-y-4 {
     padding-top: 8px;
     padding-bottom: 8px;
   }
-  .padding-y-5 {
+  .xl\:padding-y-5 {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  .padding-y-6 {
+  .xl\:padding-y-6 {
     padding-top: 12px;
     padding-bottom: 12px;
   }
-  .padding-y-7 {
+  .xl\:padding-y-7 {
     padding-top: 16px;
     padding-bottom: 16px;
   }
-  .padding-y-8 {
+  .xl\:padding-y-8 {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .padding-y-9 {
+  .xl\:padding-y-9 {
     padding-top: 24px;
     padding-bottom: 24px;
   }
-  .padding-y-10 {
+  .xl\:padding-y-10 {
     padding-top: 32px;
     padding-bottom: 32px;
   }
-  .padding-y-11 {
+  .xl\:padding-y-11 {
     padding-top: 40px;
     padding-bottom: 40px;
   }
-  .padding-y-12 {
+  .xl\:padding-y-12 {
     padding-top: 48px;
     padding-bottom: 48px;
   }
-  .padding-y-13 {
+  .xl\:padding-y-13 {
     padding-top: 64px;
     padding-bottom: 64px;
   }
-  .padding-y-14 {
+  .xl\:padding-y-14 {
     padding-top: 80px;
     padding-bottom: 80px;
   }
-  .padding-y-15 {
+  .xl\:padding-y-15 {
     padding-top: 96px;
     padding-bottom: 96px;
   }
-  .padding-y-16 {
+  .xl\:padding-y-16 {
     padding-top: 128px;
     padding-bottom: 128px;
   }
-  .padding-y-17 {
+  .xl\:padding-y-17 {
     padding-top: 160px;
     padding-bottom: 160px;
   }
-  .padding-y-18 {
+  .xl\:padding-y-18 {
     padding-top: 192px;
     padding-bottom: 192px;
   }
-  .padding-y-19 {
+  .xl\:padding-y-19 {
     padding-top: 224px;
     padding-bottom: 224px;
   }
-  .padding-y-20 {
+  .xl\:padding-y-20 {
     padding-top: 256px;
     padding-bottom: 256px;
   }
-  .padding-y-21 {
+  .xl\:padding-y-21 {
     padding-top: 320px;
     padding-bottom: 320px;
   }
-  .padding-y-22 {
+  .xl\:padding-y-22 {
     padding-top: 480px;
     padding-bottom: 480px;
   }
-  .padding-y-23 {
+  .xl\:padding-y-23 {
     padding-top: 640px;
     padding-bottom: 640px;
   }
@@ -10303,286 +10303,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .padding-top-1 {
+  .sm\:padding-top-1 {
     padding-top: 0px;
   }
-  .padding-top-2 {
+  .sm\:padding-top-2 {
     padding-top: 4px;
   }
-  .padding-top-3 {
+  .sm\:padding-top-3 {
     padding-top: 6px;
   }
-  .padding-top-4 {
+  .sm\:padding-top-4 {
     padding-top: 8px;
   }
-  .padding-top-5 {
+  .sm\:padding-top-5 {
     padding-top: 10px;
   }
-  .padding-top-6 {
+  .sm\:padding-top-6 {
     padding-top: 12px;
   }
-  .padding-top-7 {
+  .sm\:padding-top-7 {
     padding-top: 16px;
   }
-  .padding-top-8 {
+  .sm\:padding-top-8 {
     padding-top: 20px;
   }
-  .padding-top-9 {
+  .sm\:padding-top-9 {
     padding-top: 24px;
   }
-  .padding-top-10 {
+  .sm\:padding-top-10 {
     padding-top: 32px;
   }
-  .padding-top-11 {
+  .sm\:padding-top-11 {
     padding-top: 40px;
   }
-  .padding-top-12 {
+  .sm\:padding-top-12 {
     padding-top: 48px;
   }
-  .padding-top-13 {
+  .sm\:padding-top-13 {
     padding-top: 64px;
   }
-  .padding-top-14 {
+  .sm\:padding-top-14 {
     padding-top: 80px;
   }
-  .padding-top-15 {
+  .sm\:padding-top-15 {
     padding-top: 96px;
   }
-  .padding-top-16 {
+  .sm\:padding-top-16 {
     padding-top: 128px;
   }
-  .padding-top-17 {
+  .sm\:padding-top-17 {
     padding-top: 160px;
   }
-  .padding-top-18 {
+  .sm\:padding-top-18 {
     padding-top: 192px;
   }
-  .padding-top-19 {
+  .sm\:padding-top-19 {
     padding-top: 224px;
   }
-  .padding-top-20 {
+  .sm\:padding-top-20 {
     padding-top: 256px;
   }
-  .padding-top-21 {
+  .sm\:padding-top-21 {
     padding-top: 320px;
   }
-  .padding-top-22 {
+  .sm\:padding-top-22 {
     padding-top: 480px;
   }
-  .padding-top-23 {
+  .sm\:padding-top-23 {
     padding-top: 640px;
   }
 }
 @media (min-width: 750px) {
-  .padding-top-1 {
+  .md\:padding-top-1 {
     padding-top: 0px;
   }
-  .padding-top-2 {
+  .md\:padding-top-2 {
     padding-top: 4px;
   }
-  .padding-top-3 {
+  .md\:padding-top-3 {
     padding-top: 6px;
   }
-  .padding-top-4 {
+  .md\:padding-top-4 {
     padding-top: 8px;
   }
-  .padding-top-5 {
+  .md\:padding-top-5 {
     padding-top: 10px;
   }
-  .padding-top-6 {
+  .md\:padding-top-6 {
     padding-top: 12px;
   }
-  .padding-top-7 {
+  .md\:padding-top-7 {
     padding-top: 16px;
   }
-  .padding-top-8 {
+  .md\:padding-top-8 {
     padding-top: 20px;
   }
-  .padding-top-9 {
+  .md\:padding-top-9 {
     padding-top: 24px;
   }
-  .padding-top-10 {
+  .md\:padding-top-10 {
     padding-top: 32px;
   }
-  .padding-top-11 {
+  .md\:padding-top-11 {
     padding-top: 40px;
   }
-  .padding-top-12 {
+  .md\:padding-top-12 {
     padding-top: 48px;
   }
-  .padding-top-13 {
+  .md\:padding-top-13 {
     padding-top: 64px;
   }
-  .padding-top-14 {
+  .md\:padding-top-14 {
     padding-top: 80px;
   }
-  .padding-top-15 {
+  .md\:padding-top-15 {
     padding-top: 96px;
   }
-  .padding-top-16 {
+  .md\:padding-top-16 {
     padding-top: 128px;
   }
-  .padding-top-17 {
+  .md\:padding-top-17 {
     padding-top: 160px;
   }
-  .padding-top-18 {
+  .md\:padding-top-18 {
     padding-top: 192px;
   }
-  .padding-top-19 {
+  .md\:padding-top-19 {
     padding-top: 224px;
   }
-  .padding-top-20 {
+  .md\:padding-top-20 {
     padding-top: 256px;
   }
-  .padding-top-21 {
+  .md\:padding-top-21 {
     padding-top: 320px;
   }
-  .padding-top-22 {
+  .md\:padding-top-22 {
     padding-top: 480px;
   }
-  .padding-top-23 {
+  .md\:padding-top-23 {
     padding-top: 640px;
   }
 }
 @media (min-width: 900px) {
-  .padding-top-1 {
+  .lg\:padding-top-1 {
     padding-top: 0px;
   }
-  .padding-top-2 {
+  .lg\:padding-top-2 {
     padding-top: 4px;
   }
-  .padding-top-3 {
+  .lg\:padding-top-3 {
     padding-top: 6px;
   }
-  .padding-top-4 {
+  .lg\:padding-top-4 {
     padding-top: 8px;
   }
-  .padding-top-5 {
+  .lg\:padding-top-5 {
     padding-top: 10px;
   }
-  .padding-top-6 {
+  .lg\:padding-top-6 {
     padding-top: 12px;
   }
-  .padding-top-7 {
+  .lg\:padding-top-7 {
     padding-top: 16px;
   }
-  .padding-top-8 {
+  .lg\:padding-top-8 {
     padding-top: 20px;
   }
-  .padding-top-9 {
+  .lg\:padding-top-9 {
     padding-top: 24px;
   }
-  .padding-top-10 {
+  .lg\:padding-top-10 {
     padding-top: 32px;
   }
-  .padding-top-11 {
+  .lg\:padding-top-11 {
     padding-top: 40px;
   }
-  .padding-top-12 {
+  .lg\:padding-top-12 {
     padding-top: 48px;
   }
-  .padding-top-13 {
+  .lg\:padding-top-13 {
     padding-top: 64px;
   }
-  .padding-top-14 {
+  .lg\:padding-top-14 {
     padding-top: 80px;
   }
-  .padding-top-15 {
+  .lg\:padding-top-15 {
     padding-top: 96px;
   }
-  .padding-top-16 {
+  .lg\:padding-top-16 {
     padding-top: 128px;
   }
-  .padding-top-17 {
+  .lg\:padding-top-17 {
     padding-top: 160px;
   }
-  .padding-top-18 {
+  .lg\:padding-top-18 {
     padding-top: 192px;
   }
-  .padding-top-19 {
+  .lg\:padding-top-19 {
     padding-top: 224px;
   }
-  .padding-top-20 {
+  .lg\:padding-top-20 {
     padding-top: 256px;
   }
-  .padding-top-21 {
+  .lg\:padding-top-21 {
     padding-top: 320px;
   }
-  .padding-top-22 {
+  .lg\:padding-top-22 {
     padding-top: 480px;
   }
-  .padding-top-23 {
+  .lg\:padding-top-23 {
     padding-top: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .padding-top-1 {
+  .xl\:padding-top-1 {
     padding-top: 0px;
   }
-  .padding-top-2 {
+  .xl\:padding-top-2 {
     padding-top: 4px;
   }
-  .padding-top-3 {
+  .xl\:padding-top-3 {
     padding-top: 6px;
   }
-  .padding-top-4 {
+  .xl\:padding-top-4 {
     padding-top: 8px;
   }
-  .padding-top-5 {
+  .xl\:padding-top-5 {
     padding-top: 10px;
   }
-  .padding-top-6 {
+  .xl\:padding-top-6 {
     padding-top: 12px;
   }
-  .padding-top-7 {
+  .xl\:padding-top-7 {
     padding-top: 16px;
   }
-  .padding-top-8 {
+  .xl\:padding-top-8 {
     padding-top: 20px;
   }
-  .padding-top-9 {
+  .xl\:padding-top-9 {
     padding-top: 24px;
   }
-  .padding-top-10 {
+  .xl\:padding-top-10 {
     padding-top: 32px;
   }
-  .padding-top-11 {
+  .xl\:padding-top-11 {
     padding-top: 40px;
   }
-  .padding-top-12 {
+  .xl\:padding-top-12 {
     padding-top: 48px;
   }
-  .padding-top-13 {
+  .xl\:padding-top-13 {
     padding-top: 64px;
   }
-  .padding-top-14 {
+  .xl\:padding-top-14 {
     padding-top: 80px;
   }
-  .padding-top-15 {
+  .xl\:padding-top-15 {
     padding-top: 96px;
   }
-  .padding-top-16 {
+  .xl\:padding-top-16 {
     padding-top: 128px;
   }
-  .padding-top-17 {
+  .xl\:padding-top-17 {
     padding-top: 160px;
   }
-  .padding-top-18 {
+  .xl\:padding-top-18 {
     padding-top: 192px;
   }
-  .padding-top-19 {
+  .xl\:padding-top-19 {
     padding-top: 224px;
   }
-  .padding-top-20 {
+  .xl\:padding-top-20 {
     padding-top: 256px;
   }
-  .padding-top-21 {
+  .xl\:padding-top-21 {
     padding-top: 320px;
   }
-  .padding-top-22 {
+  .xl\:padding-top-22 {
     padding-top: 480px;
   }
-  .padding-top-23 {
+  .xl\:padding-top-23 {
     padding-top: 640px;
   }
 }
@@ -10679,286 +10679,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .padding-right-1 {
+  .sm\:padding-right-1 {
     padding-right: 0px;
   }
-  .padding-right-2 {
+  .sm\:padding-right-2 {
     padding-right: 4px;
   }
-  .padding-right-3 {
+  .sm\:padding-right-3 {
     padding-right: 6px;
   }
-  .padding-right-4 {
+  .sm\:padding-right-4 {
     padding-right: 8px;
   }
-  .padding-right-5 {
+  .sm\:padding-right-5 {
     padding-right: 10px;
   }
-  .padding-right-6 {
+  .sm\:padding-right-6 {
     padding-right: 12px;
   }
-  .padding-right-7 {
+  .sm\:padding-right-7 {
     padding-right: 16px;
   }
-  .padding-right-8 {
+  .sm\:padding-right-8 {
     padding-right: 20px;
   }
-  .padding-right-9 {
+  .sm\:padding-right-9 {
     padding-right: 24px;
   }
-  .padding-right-10 {
+  .sm\:padding-right-10 {
     padding-right: 32px;
   }
-  .padding-right-11 {
+  .sm\:padding-right-11 {
     padding-right: 40px;
   }
-  .padding-right-12 {
+  .sm\:padding-right-12 {
     padding-right: 48px;
   }
-  .padding-right-13 {
+  .sm\:padding-right-13 {
     padding-right: 64px;
   }
-  .padding-right-14 {
+  .sm\:padding-right-14 {
     padding-right: 80px;
   }
-  .padding-right-15 {
+  .sm\:padding-right-15 {
     padding-right: 96px;
   }
-  .padding-right-16 {
+  .sm\:padding-right-16 {
     padding-right: 128px;
   }
-  .padding-right-17 {
+  .sm\:padding-right-17 {
     padding-right: 160px;
   }
-  .padding-right-18 {
+  .sm\:padding-right-18 {
     padding-right: 192px;
   }
-  .padding-right-19 {
+  .sm\:padding-right-19 {
     padding-right: 224px;
   }
-  .padding-right-20 {
+  .sm\:padding-right-20 {
     padding-right: 256px;
   }
-  .padding-right-21 {
+  .sm\:padding-right-21 {
     padding-right: 320px;
   }
-  .padding-right-22 {
+  .sm\:padding-right-22 {
     padding-right: 480px;
   }
-  .padding-right-23 {
+  .sm\:padding-right-23 {
     padding-right: 640px;
   }
 }
 @media (min-width: 750px) {
-  .padding-right-1 {
+  .md\:padding-right-1 {
     padding-right: 0px;
   }
-  .padding-right-2 {
+  .md\:padding-right-2 {
     padding-right: 4px;
   }
-  .padding-right-3 {
+  .md\:padding-right-3 {
     padding-right: 6px;
   }
-  .padding-right-4 {
+  .md\:padding-right-4 {
     padding-right: 8px;
   }
-  .padding-right-5 {
+  .md\:padding-right-5 {
     padding-right: 10px;
   }
-  .padding-right-6 {
+  .md\:padding-right-6 {
     padding-right: 12px;
   }
-  .padding-right-7 {
+  .md\:padding-right-7 {
     padding-right: 16px;
   }
-  .padding-right-8 {
+  .md\:padding-right-8 {
     padding-right: 20px;
   }
-  .padding-right-9 {
+  .md\:padding-right-9 {
     padding-right: 24px;
   }
-  .padding-right-10 {
+  .md\:padding-right-10 {
     padding-right: 32px;
   }
-  .padding-right-11 {
+  .md\:padding-right-11 {
     padding-right: 40px;
   }
-  .padding-right-12 {
+  .md\:padding-right-12 {
     padding-right: 48px;
   }
-  .padding-right-13 {
+  .md\:padding-right-13 {
     padding-right: 64px;
   }
-  .padding-right-14 {
+  .md\:padding-right-14 {
     padding-right: 80px;
   }
-  .padding-right-15 {
+  .md\:padding-right-15 {
     padding-right: 96px;
   }
-  .padding-right-16 {
+  .md\:padding-right-16 {
     padding-right: 128px;
   }
-  .padding-right-17 {
+  .md\:padding-right-17 {
     padding-right: 160px;
   }
-  .padding-right-18 {
+  .md\:padding-right-18 {
     padding-right: 192px;
   }
-  .padding-right-19 {
+  .md\:padding-right-19 {
     padding-right: 224px;
   }
-  .padding-right-20 {
+  .md\:padding-right-20 {
     padding-right: 256px;
   }
-  .padding-right-21 {
+  .md\:padding-right-21 {
     padding-right: 320px;
   }
-  .padding-right-22 {
+  .md\:padding-right-22 {
     padding-right: 480px;
   }
-  .padding-right-23 {
+  .md\:padding-right-23 {
     padding-right: 640px;
   }
 }
 @media (min-width: 900px) {
-  .padding-right-1 {
+  .lg\:padding-right-1 {
     padding-right: 0px;
   }
-  .padding-right-2 {
+  .lg\:padding-right-2 {
     padding-right: 4px;
   }
-  .padding-right-3 {
+  .lg\:padding-right-3 {
     padding-right: 6px;
   }
-  .padding-right-4 {
+  .lg\:padding-right-4 {
     padding-right: 8px;
   }
-  .padding-right-5 {
+  .lg\:padding-right-5 {
     padding-right: 10px;
   }
-  .padding-right-6 {
+  .lg\:padding-right-6 {
     padding-right: 12px;
   }
-  .padding-right-7 {
+  .lg\:padding-right-7 {
     padding-right: 16px;
   }
-  .padding-right-8 {
+  .lg\:padding-right-8 {
     padding-right: 20px;
   }
-  .padding-right-9 {
+  .lg\:padding-right-9 {
     padding-right: 24px;
   }
-  .padding-right-10 {
+  .lg\:padding-right-10 {
     padding-right: 32px;
   }
-  .padding-right-11 {
+  .lg\:padding-right-11 {
     padding-right: 40px;
   }
-  .padding-right-12 {
+  .lg\:padding-right-12 {
     padding-right: 48px;
   }
-  .padding-right-13 {
+  .lg\:padding-right-13 {
     padding-right: 64px;
   }
-  .padding-right-14 {
+  .lg\:padding-right-14 {
     padding-right: 80px;
   }
-  .padding-right-15 {
+  .lg\:padding-right-15 {
     padding-right: 96px;
   }
-  .padding-right-16 {
+  .lg\:padding-right-16 {
     padding-right: 128px;
   }
-  .padding-right-17 {
+  .lg\:padding-right-17 {
     padding-right: 160px;
   }
-  .padding-right-18 {
+  .lg\:padding-right-18 {
     padding-right: 192px;
   }
-  .padding-right-19 {
+  .lg\:padding-right-19 {
     padding-right: 224px;
   }
-  .padding-right-20 {
+  .lg\:padding-right-20 {
     padding-right: 256px;
   }
-  .padding-right-21 {
+  .lg\:padding-right-21 {
     padding-right: 320px;
   }
-  .padding-right-22 {
+  .lg\:padding-right-22 {
     padding-right: 480px;
   }
-  .padding-right-23 {
+  .lg\:padding-right-23 {
     padding-right: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .padding-right-1 {
+  .xl\:padding-right-1 {
     padding-right: 0px;
   }
-  .padding-right-2 {
+  .xl\:padding-right-2 {
     padding-right: 4px;
   }
-  .padding-right-3 {
+  .xl\:padding-right-3 {
     padding-right: 6px;
   }
-  .padding-right-4 {
+  .xl\:padding-right-4 {
     padding-right: 8px;
   }
-  .padding-right-5 {
+  .xl\:padding-right-5 {
     padding-right: 10px;
   }
-  .padding-right-6 {
+  .xl\:padding-right-6 {
     padding-right: 12px;
   }
-  .padding-right-7 {
+  .xl\:padding-right-7 {
     padding-right: 16px;
   }
-  .padding-right-8 {
+  .xl\:padding-right-8 {
     padding-right: 20px;
   }
-  .padding-right-9 {
+  .xl\:padding-right-9 {
     padding-right: 24px;
   }
-  .padding-right-10 {
+  .xl\:padding-right-10 {
     padding-right: 32px;
   }
-  .padding-right-11 {
+  .xl\:padding-right-11 {
     padding-right: 40px;
   }
-  .padding-right-12 {
+  .xl\:padding-right-12 {
     padding-right: 48px;
   }
-  .padding-right-13 {
+  .xl\:padding-right-13 {
     padding-right: 64px;
   }
-  .padding-right-14 {
+  .xl\:padding-right-14 {
     padding-right: 80px;
   }
-  .padding-right-15 {
+  .xl\:padding-right-15 {
     padding-right: 96px;
   }
-  .padding-right-16 {
+  .xl\:padding-right-16 {
     padding-right: 128px;
   }
-  .padding-right-17 {
+  .xl\:padding-right-17 {
     padding-right: 160px;
   }
-  .padding-right-18 {
+  .xl\:padding-right-18 {
     padding-right: 192px;
   }
-  .padding-right-19 {
+  .xl\:padding-right-19 {
     padding-right: 224px;
   }
-  .padding-right-20 {
+  .xl\:padding-right-20 {
     padding-right: 256px;
   }
-  .padding-right-21 {
+  .xl\:padding-right-21 {
     padding-right: 320px;
   }
-  .padding-right-22 {
+  .xl\:padding-right-22 {
     padding-right: 480px;
   }
-  .padding-right-23 {
+  .xl\:padding-right-23 {
     padding-right: 640px;
   }
 }
@@ -11055,286 +11055,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .padding-bottom-1 {
+  .sm\:padding-bottom-1 {
     padding-bottom: 0px;
   }
-  .padding-bottom-2 {
+  .sm\:padding-bottom-2 {
     padding-bottom: 4px;
   }
-  .padding-bottom-3 {
+  .sm\:padding-bottom-3 {
     padding-bottom: 6px;
   }
-  .padding-bottom-4 {
+  .sm\:padding-bottom-4 {
     padding-bottom: 8px;
   }
-  .padding-bottom-5 {
+  .sm\:padding-bottom-5 {
     padding-bottom: 10px;
   }
-  .padding-bottom-6 {
+  .sm\:padding-bottom-6 {
     padding-bottom: 12px;
   }
-  .padding-bottom-7 {
+  .sm\:padding-bottom-7 {
     padding-bottom: 16px;
   }
-  .padding-bottom-8 {
+  .sm\:padding-bottom-8 {
     padding-bottom: 20px;
   }
-  .padding-bottom-9 {
+  .sm\:padding-bottom-9 {
     padding-bottom: 24px;
   }
-  .padding-bottom-10 {
+  .sm\:padding-bottom-10 {
     padding-bottom: 32px;
   }
-  .padding-bottom-11 {
+  .sm\:padding-bottom-11 {
     padding-bottom: 40px;
   }
-  .padding-bottom-12 {
+  .sm\:padding-bottom-12 {
     padding-bottom: 48px;
   }
-  .padding-bottom-13 {
+  .sm\:padding-bottom-13 {
     padding-bottom: 64px;
   }
-  .padding-bottom-14 {
+  .sm\:padding-bottom-14 {
     padding-bottom: 80px;
   }
-  .padding-bottom-15 {
+  .sm\:padding-bottom-15 {
     padding-bottom: 96px;
   }
-  .padding-bottom-16 {
+  .sm\:padding-bottom-16 {
     padding-bottom: 128px;
   }
-  .padding-bottom-17 {
+  .sm\:padding-bottom-17 {
     padding-bottom: 160px;
   }
-  .padding-bottom-18 {
+  .sm\:padding-bottom-18 {
     padding-bottom: 192px;
   }
-  .padding-bottom-19 {
+  .sm\:padding-bottom-19 {
     padding-bottom: 224px;
   }
-  .padding-bottom-20 {
+  .sm\:padding-bottom-20 {
     padding-bottom: 256px;
   }
-  .padding-bottom-21 {
+  .sm\:padding-bottom-21 {
     padding-bottom: 320px;
   }
-  .padding-bottom-22 {
+  .sm\:padding-bottom-22 {
     padding-bottom: 480px;
   }
-  .padding-bottom-23 {
+  .sm\:padding-bottom-23 {
     padding-bottom: 640px;
   }
 }
 @media (min-width: 750px) {
-  .padding-bottom-1 {
+  .md\:padding-bottom-1 {
     padding-bottom: 0px;
   }
-  .padding-bottom-2 {
+  .md\:padding-bottom-2 {
     padding-bottom: 4px;
   }
-  .padding-bottom-3 {
+  .md\:padding-bottom-3 {
     padding-bottom: 6px;
   }
-  .padding-bottom-4 {
+  .md\:padding-bottom-4 {
     padding-bottom: 8px;
   }
-  .padding-bottom-5 {
+  .md\:padding-bottom-5 {
     padding-bottom: 10px;
   }
-  .padding-bottom-6 {
+  .md\:padding-bottom-6 {
     padding-bottom: 12px;
   }
-  .padding-bottom-7 {
+  .md\:padding-bottom-7 {
     padding-bottom: 16px;
   }
-  .padding-bottom-8 {
+  .md\:padding-bottom-8 {
     padding-bottom: 20px;
   }
-  .padding-bottom-9 {
+  .md\:padding-bottom-9 {
     padding-bottom: 24px;
   }
-  .padding-bottom-10 {
+  .md\:padding-bottom-10 {
     padding-bottom: 32px;
   }
-  .padding-bottom-11 {
+  .md\:padding-bottom-11 {
     padding-bottom: 40px;
   }
-  .padding-bottom-12 {
+  .md\:padding-bottom-12 {
     padding-bottom: 48px;
   }
-  .padding-bottom-13 {
+  .md\:padding-bottom-13 {
     padding-bottom: 64px;
   }
-  .padding-bottom-14 {
+  .md\:padding-bottom-14 {
     padding-bottom: 80px;
   }
-  .padding-bottom-15 {
+  .md\:padding-bottom-15 {
     padding-bottom: 96px;
   }
-  .padding-bottom-16 {
+  .md\:padding-bottom-16 {
     padding-bottom: 128px;
   }
-  .padding-bottom-17 {
+  .md\:padding-bottom-17 {
     padding-bottom: 160px;
   }
-  .padding-bottom-18 {
+  .md\:padding-bottom-18 {
     padding-bottom: 192px;
   }
-  .padding-bottom-19 {
+  .md\:padding-bottom-19 {
     padding-bottom: 224px;
   }
-  .padding-bottom-20 {
+  .md\:padding-bottom-20 {
     padding-bottom: 256px;
   }
-  .padding-bottom-21 {
+  .md\:padding-bottom-21 {
     padding-bottom: 320px;
   }
-  .padding-bottom-22 {
+  .md\:padding-bottom-22 {
     padding-bottom: 480px;
   }
-  .padding-bottom-23 {
+  .md\:padding-bottom-23 {
     padding-bottom: 640px;
   }
 }
 @media (min-width: 900px) {
-  .padding-bottom-1 {
+  .lg\:padding-bottom-1 {
     padding-bottom: 0px;
   }
-  .padding-bottom-2 {
+  .lg\:padding-bottom-2 {
     padding-bottom: 4px;
   }
-  .padding-bottom-3 {
+  .lg\:padding-bottom-3 {
     padding-bottom: 6px;
   }
-  .padding-bottom-4 {
+  .lg\:padding-bottom-4 {
     padding-bottom: 8px;
   }
-  .padding-bottom-5 {
+  .lg\:padding-bottom-5 {
     padding-bottom: 10px;
   }
-  .padding-bottom-6 {
+  .lg\:padding-bottom-6 {
     padding-bottom: 12px;
   }
-  .padding-bottom-7 {
+  .lg\:padding-bottom-7 {
     padding-bottom: 16px;
   }
-  .padding-bottom-8 {
+  .lg\:padding-bottom-8 {
     padding-bottom: 20px;
   }
-  .padding-bottom-9 {
+  .lg\:padding-bottom-9 {
     padding-bottom: 24px;
   }
-  .padding-bottom-10 {
+  .lg\:padding-bottom-10 {
     padding-bottom: 32px;
   }
-  .padding-bottom-11 {
+  .lg\:padding-bottom-11 {
     padding-bottom: 40px;
   }
-  .padding-bottom-12 {
+  .lg\:padding-bottom-12 {
     padding-bottom: 48px;
   }
-  .padding-bottom-13 {
+  .lg\:padding-bottom-13 {
     padding-bottom: 64px;
   }
-  .padding-bottom-14 {
+  .lg\:padding-bottom-14 {
     padding-bottom: 80px;
   }
-  .padding-bottom-15 {
+  .lg\:padding-bottom-15 {
     padding-bottom: 96px;
   }
-  .padding-bottom-16 {
+  .lg\:padding-bottom-16 {
     padding-bottom: 128px;
   }
-  .padding-bottom-17 {
+  .lg\:padding-bottom-17 {
     padding-bottom: 160px;
   }
-  .padding-bottom-18 {
+  .lg\:padding-bottom-18 {
     padding-bottom: 192px;
   }
-  .padding-bottom-19 {
+  .lg\:padding-bottom-19 {
     padding-bottom: 224px;
   }
-  .padding-bottom-20 {
+  .lg\:padding-bottom-20 {
     padding-bottom: 256px;
   }
-  .padding-bottom-21 {
+  .lg\:padding-bottom-21 {
     padding-bottom: 320px;
   }
-  .padding-bottom-22 {
+  .lg\:padding-bottom-22 {
     padding-bottom: 480px;
   }
-  .padding-bottom-23 {
+  .lg\:padding-bottom-23 {
     padding-bottom: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .padding-bottom-1 {
+  .xl\:padding-bottom-1 {
     padding-bottom: 0px;
   }
-  .padding-bottom-2 {
+  .xl\:padding-bottom-2 {
     padding-bottom: 4px;
   }
-  .padding-bottom-3 {
+  .xl\:padding-bottom-3 {
     padding-bottom: 6px;
   }
-  .padding-bottom-4 {
+  .xl\:padding-bottom-4 {
     padding-bottom: 8px;
   }
-  .padding-bottom-5 {
+  .xl\:padding-bottom-5 {
     padding-bottom: 10px;
   }
-  .padding-bottom-6 {
+  .xl\:padding-bottom-6 {
     padding-bottom: 12px;
   }
-  .padding-bottom-7 {
+  .xl\:padding-bottom-7 {
     padding-bottom: 16px;
   }
-  .padding-bottom-8 {
+  .xl\:padding-bottom-8 {
     padding-bottom: 20px;
   }
-  .padding-bottom-9 {
+  .xl\:padding-bottom-9 {
     padding-bottom: 24px;
   }
-  .padding-bottom-10 {
+  .xl\:padding-bottom-10 {
     padding-bottom: 32px;
   }
-  .padding-bottom-11 {
+  .xl\:padding-bottom-11 {
     padding-bottom: 40px;
   }
-  .padding-bottom-12 {
+  .xl\:padding-bottom-12 {
     padding-bottom: 48px;
   }
-  .padding-bottom-13 {
+  .xl\:padding-bottom-13 {
     padding-bottom: 64px;
   }
-  .padding-bottom-14 {
+  .xl\:padding-bottom-14 {
     padding-bottom: 80px;
   }
-  .padding-bottom-15 {
+  .xl\:padding-bottom-15 {
     padding-bottom: 96px;
   }
-  .padding-bottom-16 {
+  .xl\:padding-bottom-16 {
     padding-bottom: 128px;
   }
-  .padding-bottom-17 {
+  .xl\:padding-bottom-17 {
     padding-bottom: 160px;
   }
-  .padding-bottom-18 {
+  .xl\:padding-bottom-18 {
     padding-bottom: 192px;
   }
-  .padding-bottom-19 {
+  .xl\:padding-bottom-19 {
     padding-bottom: 224px;
   }
-  .padding-bottom-20 {
+  .xl\:padding-bottom-20 {
     padding-bottom: 256px;
   }
-  .padding-bottom-21 {
+  .xl\:padding-bottom-21 {
     padding-bottom: 320px;
   }
-  .padding-bottom-22 {
+  .xl\:padding-bottom-22 {
     padding-bottom: 480px;
   }
-  .padding-bottom-23 {
+  .xl\:padding-bottom-23 {
     padding-bottom: 640px;
   }
 }
@@ -11431,286 +11431,286 @@ template {
 }
 
 @media (min-width: 550px) {
-  .padding-left-1 {
+  .sm\:padding-left-1 {
     padding-left: 0px;
   }
-  .padding-left-2 {
+  .sm\:padding-left-2 {
     padding-left: 4px;
   }
-  .padding-left-3 {
+  .sm\:padding-left-3 {
     padding-left: 6px;
   }
-  .padding-left-4 {
+  .sm\:padding-left-4 {
     padding-left: 8px;
   }
-  .padding-left-5 {
+  .sm\:padding-left-5 {
     padding-left: 10px;
   }
-  .padding-left-6 {
+  .sm\:padding-left-6 {
     padding-left: 12px;
   }
-  .padding-left-7 {
+  .sm\:padding-left-7 {
     padding-left: 16px;
   }
-  .padding-left-8 {
+  .sm\:padding-left-8 {
     padding-left: 20px;
   }
-  .padding-left-9 {
+  .sm\:padding-left-9 {
     padding-left: 24px;
   }
-  .padding-left-10 {
+  .sm\:padding-left-10 {
     padding-left: 32px;
   }
-  .padding-left-11 {
+  .sm\:padding-left-11 {
     padding-left: 40px;
   }
-  .padding-left-12 {
+  .sm\:padding-left-12 {
     padding-left: 48px;
   }
-  .padding-left-13 {
+  .sm\:padding-left-13 {
     padding-left: 64px;
   }
-  .padding-left-14 {
+  .sm\:padding-left-14 {
     padding-left: 80px;
   }
-  .padding-left-15 {
+  .sm\:padding-left-15 {
     padding-left: 96px;
   }
-  .padding-left-16 {
+  .sm\:padding-left-16 {
     padding-left: 128px;
   }
-  .padding-left-17 {
+  .sm\:padding-left-17 {
     padding-left: 160px;
   }
-  .padding-left-18 {
+  .sm\:padding-left-18 {
     padding-left: 192px;
   }
-  .padding-left-19 {
+  .sm\:padding-left-19 {
     padding-left: 224px;
   }
-  .padding-left-20 {
+  .sm\:padding-left-20 {
     padding-left: 256px;
   }
-  .padding-left-21 {
+  .sm\:padding-left-21 {
     padding-left: 320px;
   }
-  .padding-left-22 {
+  .sm\:padding-left-22 {
     padding-left: 480px;
   }
-  .padding-left-23 {
+  .sm\:padding-left-23 {
     padding-left: 640px;
   }
 }
 @media (min-width: 750px) {
-  .padding-left-1 {
+  .md\:padding-left-1 {
     padding-left: 0px;
   }
-  .padding-left-2 {
+  .md\:padding-left-2 {
     padding-left: 4px;
   }
-  .padding-left-3 {
+  .md\:padding-left-3 {
     padding-left: 6px;
   }
-  .padding-left-4 {
+  .md\:padding-left-4 {
     padding-left: 8px;
   }
-  .padding-left-5 {
+  .md\:padding-left-5 {
     padding-left: 10px;
   }
-  .padding-left-6 {
+  .md\:padding-left-6 {
     padding-left: 12px;
   }
-  .padding-left-7 {
+  .md\:padding-left-7 {
     padding-left: 16px;
   }
-  .padding-left-8 {
+  .md\:padding-left-8 {
     padding-left: 20px;
   }
-  .padding-left-9 {
+  .md\:padding-left-9 {
     padding-left: 24px;
   }
-  .padding-left-10 {
+  .md\:padding-left-10 {
     padding-left: 32px;
   }
-  .padding-left-11 {
+  .md\:padding-left-11 {
     padding-left: 40px;
   }
-  .padding-left-12 {
+  .md\:padding-left-12 {
     padding-left: 48px;
   }
-  .padding-left-13 {
+  .md\:padding-left-13 {
     padding-left: 64px;
   }
-  .padding-left-14 {
+  .md\:padding-left-14 {
     padding-left: 80px;
   }
-  .padding-left-15 {
+  .md\:padding-left-15 {
     padding-left: 96px;
   }
-  .padding-left-16 {
+  .md\:padding-left-16 {
     padding-left: 128px;
   }
-  .padding-left-17 {
+  .md\:padding-left-17 {
     padding-left: 160px;
   }
-  .padding-left-18 {
+  .md\:padding-left-18 {
     padding-left: 192px;
   }
-  .padding-left-19 {
+  .md\:padding-left-19 {
     padding-left: 224px;
   }
-  .padding-left-20 {
+  .md\:padding-left-20 {
     padding-left: 256px;
   }
-  .padding-left-21 {
+  .md\:padding-left-21 {
     padding-left: 320px;
   }
-  .padding-left-22 {
+  .md\:padding-left-22 {
     padding-left: 480px;
   }
-  .padding-left-23 {
+  .md\:padding-left-23 {
     padding-left: 640px;
   }
 }
 @media (min-width: 900px) {
-  .padding-left-1 {
+  .lg\:padding-left-1 {
     padding-left: 0px;
   }
-  .padding-left-2 {
+  .lg\:padding-left-2 {
     padding-left: 4px;
   }
-  .padding-left-3 {
+  .lg\:padding-left-3 {
     padding-left: 6px;
   }
-  .padding-left-4 {
+  .lg\:padding-left-4 {
     padding-left: 8px;
   }
-  .padding-left-5 {
+  .lg\:padding-left-5 {
     padding-left: 10px;
   }
-  .padding-left-6 {
+  .lg\:padding-left-6 {
     padding-left: 12px;
   }
-  .padding-left-7 {
+  .lg\:padding-left-7 {
     padding-left: 16px;
   }
-  .padding-left-8 {
+  .lg\:padding-left-8 {
     padding-left: 20px;
   }
-  .padding-left-9 {
+  .lg\:padding-left-9 {
     padding-left: 24px;
   }
-  .padding-left-10 {
+  .lg\:padding-left-10 {
     padding-left: 32px;
   }
-  .padding-left-11 {
+  .lg\:padding-left-11 {
     padding-left: 40px;
   }
-  .padding-left-12 {
+  .lg\:padding-left-12 {
     padding-left: 48px;
   }
-  .padding-left-13 {
+  .lg\:padding-left-13 {
     padding-left: 64px;
   }
-  .padding-left-14 {
+  .lg\:padding-left-14 {
     padding-left: 80px;
   }
-  .padding-left-15 {
+  .lg\:padding-left-15 {
     padding-left: 96px;
   }
-  .padding-left-16 {
+  .lg\:padding-left-16 {
     padding-left: 128px;
   }
-  .padding-left-17 {
+  .lg\:padding-left-17 {
     padding-left: 160px;
   }
-  .padding-left-18 {
+  .lg\:padding-left-18 {
     padding-left: 192px;
   }
-  .padding-left-19 {
+  .lg\:padding-left-19 {
     padding-left: 224px;
   }
-  .padding-left-20 {
+  .lg\:padding-left-20 {
     padding-left: 256px;
   }
-  .padding-left-21 {
+  .lg\:padding-left-21 {
     padding-left: 320px;
   }
-  .padding-left-22 {
+  .lg\:padding-left-22 {
     padding-left: 480px;
   }
-  .padding-left-23 {
+  .lg\:padding-left-23 {
     padding-left: 640px;
   }
 }
 @media (min-width: 1200px) {
-  .padding-left-1 {
+  .xl\:padding-left-1 {
     padding-left: 0px;
   }
-  .padding-left-2 {
+  .xl\:padding-left-2 {
     padding-left: 4px;
   }
-  .padding-left-3 {
+  .xl\:padding-left-3 {
     padding-left: 6px;
   }
-  .padding-left-4 {
+  .xl\:padding-left-4 {
     padding-left: 8px;
   }
-  .padding-left-5 {
+  .xl\:padding-left-5 {
     padding-left: 10px;
   }
-  .padding-left-6 {
+  .xl\:padding-left-6 {
     padding-left: 12px;
   }
-  .padding-left-7 {
+  .xl\:padding-left-7 {
     padding-left: 16px;
   }
-  .padding-left-8 {
+  .xl\:padding-left-8 {
     padding-left: 20px;
   }
-  .padding-left-9 {
+  .xl\:padding-left-9 {
     padding-left: 24px;
   }
-  .padding-left-10 {
+  .xl\:padding-left-10 {
     padding-left: 32px;
   }
-  .padding-left-11 {
+  .xl\:padding-left-11 {
     padding-left: 40px;
   }
-  .padding-left-12 {
+  .xl\:padding-left-12 {
     padding-left: 48px;
   }
-  .padding-left-13 {
+  .xl\:padding-left-13 {
     padding-left: 64px;
   }
-  .padding-left-14 {
+  .xl\:padding-left-14 {
     padding-left: 80px;
   }
-  .padding-left-15 {
+  .xl\:padding-left-15 {
     padding-left: 96px;
   }
-  .padding-left-16 {
+  .xl\:padding-left-16 {
     padding-left: 128px;
   }
-  .padding-left-17 {
+  .xl\:padding-left-17 {
     padding-left: 160px;
   }
-  .padding-left-18 {
+  .xl\:padding-left-18 {
     padding-left: 192px;
   }
-  .padding-left-19 {
+  .xl\:padding-left-19 {
     padding-left: 224px;
   }
-  .padding-left-20 {
+  .xl\:padding-left-20 {
     padding-left: 256px;
   }
-  .padding-left-21 {
+  .xl\:padding-left-21 {
     padding-left: 320px;
   }
-  .padding-left-22 {
+  .xl\:padding-left-22 {
     padding-left: 480px;
   }
-  .padding-left-23 {
+  .xl\:padding-left-23 {
     padding-left: 640px;
   }
 }
@@ -11773,142 +11773,142 @@ template {
 }
 
 @media (min-width: 550px) {
-  .font-size-1 {
+  .sm\:font-size-1 {
     font-size: 12px;
   }
-  .font-size-2 {
+  .sm\:font-size-2 {
     font-size: 14px;
   }
-  .font-size-3 {
+  .sm\:font-size-3 {
     font-size: 16px;
   }
-  .font-size-4 {
+  .sm\:font-size-4 {
     font-size: 18px;
   }
-  .font-size-5 {
+  .sm\:font-size-5 {
     font-size: 20px;
   }
-  .font-size-6 {
+  .sm\:font-size-6 {
     font-size: 24px;
   }
-  .font-size-7 {
+  .sm\:font-size-7 {
     font-size: 30px;
   }
-  .font-size-8 {
+  .sm\:font-size-8 {
     font-size: 36px;
   }
-  .font-size-9 {
+  .sm\:font-size-9 {
     font-size: 48px;
   }
-  .font-size-10 {
+  .sm\:font-size-10 {
     font-size: 64px;
   }
-  .font-size-11 {
+  .sm\:font-size-11 {
     font-size: 72px;
   }
 }
 @media (min-width: 750px) {
-  .font-size-1 {
+  .md\:font-size-1 {
     font-size: 12px;
   }
-  .font-size-2 {
+  .md\:font-size-2 {
     font-size: 14px;
   }
-  .font-size-3 {
+  .md\:font-size-3 {
     font-size: 16px;
   }
-  .font-size-4 {
+  .md\:font-size-4 {
     font-size: 18px;
   }
-  .font-size-5 {
+  .md\:font-size-5 {
     font-size: 20px;
   }
-  .font-size-6 {
+  .md\:font-size-6 {
     font-size: 24px;
   }
-  .font-size-7 {
+  .md\:font-size-7 {
     font-size: 30px;
   }
-  .font-size-8 {
+  .md\:font-size-8 {
     font-size: 36px;
   }
-  .font-size-9 {
+  .md\:font-size-9 {
     font-size: 48px;
   }
-  .font-size-10 {
+  .md\:font-size-10 {
     font-size: 64px;
   }
-  .font-size-11 {
+  .md\:font-size-11 {
     font-size: 72px;
   }
 }
 @media (min-width: 900px) {
-  .font-size-1 {
+  .lg\:font-size-1 {
     font-size: 12px;
   }
-  .font-size-2 {
+  .lg\:font-size-2 {
     font-size: 14px;
   }
-  .font-size-3 {
+  .lg\:font-size-3 {
     font-size: 16px;
   }
-  .font-size-4 {
+  .lg\:font-size-4 {
     font-size: 18px;
   }
-  .font-size-5 {
+  .lg\:font-size-5 {
     font-size: 20px;
   }
-  .font-size-6 {
+  .lg\:font-size-6 {
     font-size: 24px;
   }
-  .font-size-7 {
+  .lg\:font-size-7 {
     font-size: 30px;
   }
-  .font-size-8 {
+  .lg\:font-size-8 {
     font-size: 36px;
   }
-  .font-size-9 {
+  .lg\:font-size-9 {
     font-size: 48px;
   }
-  .font-size-10 {
+  .lg\:font-size-10 {
     font-size: 64px;
   }
-  .font-size-11 {
+  .lg\:font-size-11 {
     font-size: 72px;
   }
 }
 @media (min-width: 1200px) {
-  .font-size-1 {
+  .xl\:font-size-1 {
     font-size: 12px;
   }
-  .font-size-2 {
+  .xl\:font-size-2 {
     font-size: 14px;
   }
-  .font-size-3 {
+  .xl\:font-size-3 {
     font-size: 16px;
   }
-  .font-size-4 {
+  .xl\:font-size-4 {
     font-size: 18px;
   }
-  .font-size-5 {
+  .xl\:font-size-5 {
     font-size: 20px;
   }
-  .font-size-6 {
+  .xl\:font-size-6 {
     font-size: 24px;
   }
-  .font-size-7 {
+  .xl\:font-size-7 {
     font-size: 30px;
   }
-  .font-size-8 {
+  .xl\:font-size-8 {
     font-size: 36px;
   }
-  .font-size-9 {
+  .xl\:font-size-9 {
     font-size: 48px;
   }
-  .font-size-10 {
+  .xl\:font-size-10 {
     font-size: 64px;
   }
-  .font-size-11 {
+  .xl\:font-size-11 {
     font-size: 72px;
   }
 }

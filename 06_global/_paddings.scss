@@ -30,7 +30,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($paddings){
-      ..#{$breakpoint}\:padding-x-#{$i}{
+      .#{$breakpoint}\:padding-x-#{$i}{
         padding-left: nth($paddings, $i);
         padding-right: nth($paddings, $i);
       }
