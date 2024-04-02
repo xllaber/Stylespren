@@ -12,7 +12,7 @@
 $fonts: ("Rubik", "League-Spartan", "Tomorrow", "Exo-2", "Jost", "Noto-Sans", "Outfit", "Roboto");
 :root {
   @each $font in $fonts {
-    --font-family-#{$font}: "#{remove-font-blank-space($font)}, sans-serif";
+    --font-family-#{$font}: "#{remove-font-blank-space($font)}, system-ui, sans-serif";
   }
 }
 

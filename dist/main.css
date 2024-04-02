@@ -374,14 +374,14 @@ template {
 }
 
 :root {
-  --font-family-Rubik: "Rubik, sans-serif";
-  --font-family-League-Spartan: "League Spartan, sans-serif";
-  --font-family-Tomorrow: "Tomorrow, sans-serif";
-  --font-family-Exo-2: "Exo 2, sans-serif";
-  --font-family-Jost: "Jost, sans-serif";
-  --font-family-Noto-Sans: "Noto Sans, sans-serif";
-  --font-family-Outfit: "Outfit, sans-serif";
-  --font-family-Roboto: "Roboto, sans-serif";
+  --font-family-Rubik: "Rubik, system-ui, sans-serif";
+  --font-family-League-Spartan: "League Spartan, system-ui, sans-serif";
+  --font-family-Tomorrow: "Tomorrow, system-ui, sans-serif";
+  --font-family-Exo-2: "Exo 2, system-ui, sans-serif";
+  --font-family-Jost: "Jost, system-ui, sans-serif";
+  --font-family-Noto-Sans: "Noto Sans, system-ui, sans-serif";
+  --font-family-Outfit: "Outfit, system-ui, sans-serif";
+  --font-family-Roboto: "Roboto, system-ui, sans-serif";
 }
 
 .font-family-Rubik {
