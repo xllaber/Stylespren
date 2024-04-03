@@ -1,0 +1,15 @@
+@each $position in $position-values {
+  .#{$position} {
+    position: #{$position}
+  }
+}
+
+@each $break-point, $size in $break-points {
+  @media (min-width: $size) {
+    @each $position in $position-values {
+      .#{$position} {
+        position: #{$position}
+      }
+    }
+  }
+}
