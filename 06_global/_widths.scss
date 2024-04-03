@@ -1,11 +1,11 @@
 :root {
   @for $i from 1 through length($widths) {
-    --width-#{$i}: #{nth($widths, $i)};
+    --width-#{$i - 1}: #{nth($widths, $i)};
   }
 }
 
 @for $i from 1 through length($widths) {
-  .width-#{$i} {
+  .width-#{$i - 1} {
     width: nth($widths, $i);
   }
 }
@@ -13,7 +13,7 @@
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
     @for $i from 1 through length($widths) {
-      .#{$breakpoint}\:width-#{$i} {
+      .#{$breakpoint}\:width-#{$i - 1} {
         width: nth($widths, $i);
       }
     }
@@ -71,9 +71,6 @@
 
 @each $breakpoint, $size in $break-points {
   @media (min-width: #{$size}) {
-    .#{$breakpoint}\:width-100 {
-      width: 100%;
-    }
     .#{$breakpoint}\:width-fit {
       width: fit-content;
     }
