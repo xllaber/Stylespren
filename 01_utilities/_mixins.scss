@@ -38,3 +38,13 @@
     transform-origin: bottom left;
   }
 }
+
+@mixin media-query($list, $property) {
+  @each $break-point, $size in $break-points {
+    @for $i from 1 through length($list) {
+      .#{$break-point}\:#{$property}-#{$i - 1} {
+        #{$property}: nth($list, $i);
+      }
+    }
+  }
+}
