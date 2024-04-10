@@ -10,11 +10,31 @@
 }
 
 @mixin scroll-bar($track-color: var(--gray-5), $thumb-color: var(--gray-1), $thumb-color-hover: var(--gray-5)) {
-
   scrollbar-color: #{$thumb-color} #{$track-color};
   scrollbar-width: thin;
   &:hover {
     scrollbar-color: #{$thumb-color-hover} #{$track-color};
   }
+}
 
+@mixin animated-underline-color($color: var(--black-8)) {
+  display: inline-block;
+  position: relative;
+  color: inherit;
+  &::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: $color;
+    transform-origin: bottom right;
+    transition: transform .25s ease-out;
+  }
+  &:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
 }
