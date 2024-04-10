@@ -1,8 +1,52 @@
 .textarea {
-  --textarea-padding: var(--padding-3);
-  --textarea-border-color: var(--gray-7) ;
+  $textarea-padding: var(--padding-3);
+  $textarea-border-color: var(--gray-7);
+  $textarea-shadow-color: var(--gray-7);
+  $textarea-bg-color: var(--white-8);
 
-  width: 100%;
-  padding: var(--textarea-padding);
-  border: 2px solid
+  width: auto;
+  padding: $textarea-padding;
+  outline: none;
+  border: 2px solid $textarea-border-color;
+  border-radius: var(--radius-3);
+  background-color: $textarea-bg-color;
+  pointer-events: bounding-box;
+  @include scroll-bar("", "", "");
+  &--toggle-animated {
+    box-shadow: inset 0 0 10px 2px $textarea-shadow-color, 0 0 0 0 $textarea-shadow-color;
+    transition: all 0.5s ease-in-out;
+    &:focus {
+      transform: scale(1.1);
+      background-color: var(--white-1);
+      box-shadow: inset 0 0 0 0 $textarea-shadow-color, 3px 6px 11px 7px $textarea-shadow-color;
+    }
+  }
+
+  &--primary {
+    border-color: var(--primary-3);
+    @include scroll-bar(var(--primary-2), var(--primary-4), var(--primary-5));
+  }
+  &--toggle-animated-primary {
+    box-shadow: inset 0 0 10px 2px var(--primary-1), 0 0 0 0 var(--primary-1);
+    transition: all 0.5s ease-in-out;
+    &:focus {
+      transform: scale(1.1);
+      background-color: var(--white-1);
+      box-shadow: inset 0 0 0 0 var(--primary-1), 3px 6px 11px 7px var(--primary-1);
+    }
+  }
+
+  &--alternative {
+    border-color: var(--alternative-5);
+    @include scroll-bar(var(--alternative-2), var(--alternative-4), var(--alternative-5));
+  }
+  &--toggle-animated-alternative {
+    box-shadow: inset 0 0 10px 2px var(--alternative-6), 0 0 0 0 var(--alternative-6);
+    transition: all 0.5s ease-in-out;
+    &:focus {
+      transform: scale(1.1);
+      background-color: var(--white-1);
+      box-shadow: inset 0 0 0 0 var(--alternative-6), 3px 6px 11px 7px var(--alternative-6);
+    }
+  }
 }
