@@ -1,0 +1,8 @@
+.cursor {
+  cursor: auto;
+  @each $type in $pointers {
+    &--#{$type} {
+      cursor: #{$type};
+    }
+  }
+}
