@@ -132,16 +132,30 @@
         flex-flow: row nowrap;
       }
 
+      //flex
+      &__1 {
+        flex: 1 1 0;
+      }
+      &__auto {
+        flex: 1 1 auto;
+      }
+      &__initial {
+        flex: 0 1 auto;
+      }
+      &__none {
+        flex: none;
+      }
+
     }
 
     @for $i from 1 through length($gap){
-      .gap-#{$i}{
+      .#{$breakpoint}\:gap-#{$i}{
         gap: nth($gap, $i);
       }
-      .row-gap-#{$i}{
+      .#{$breakpoint}\:row-gap-#{$i}{
         row-gap: nth($gap, $i);
       }
-      .col-gap-#{$i}{
+      .#{$breakpoint}\:col-gap-#{$i}{
         column-gap: nth($gap, $i);
       }
     }
@@ -278,6 +292,20 @@
   }
   &--flow-row-nowrap {
     flex-flow: row nowrap;
+  }
+
+  //flex
+  &__1 {
+    flex: 1 1 0;
+  }
+  &__auto {
+    flex: 1 1 auto;
+  }
+  &__initial {
+    flex: 0 1 auto;
+  }
+  &__none {
+    flex: none;
   }
 
 }
