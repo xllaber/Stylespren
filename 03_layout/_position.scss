@@ -13,3 +13,23 @@
     }
   }
 }
+
+@each $position, $values in $positions {
+  @for $i from 1 through length($values) {
+    .#{$position}-#{$i - 1} {
+      #{$position} : nth($values, $i);
+    }
+  }
+}
+
+@each $break-point, $size in $break-points {
+  @media (min-width: $size) {
+    @each $position, $values in $positions {
+      @for $i from 1 through length($values) {
+        .#{$break-point}\:#{$position}-#{$i - 1} {
+          #{$position} : nth($values, $i);
+        }
+      }
+    }
+  }
+}
