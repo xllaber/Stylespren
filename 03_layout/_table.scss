@@ -1,0 +1,65 @@
+.table {
+  display: table;
+  &--inline {
+    display: inline-table;
+  }
+  &__row {
+    display: table-row;
+  }
+  &__row-group {
+    display: table-row-group;
+  }
+  &__col {
+    display: table-column;
+  }
+  &__col-group {
+    display: table-column-group;
+  }
+  &__cell {
+    display: table-cell;
+  }
+  &__caption {
+    display: table-caption;
+  }
+  &__header {
+    display: table-header-group;
+  }
+  &__footer {
+    display: table-footer-group;
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    .#{$breakpoint}\:table {
+      display: table;
+      &--inline {
+        display: inline-table;
+      }
+      &__row {
+        display: table-row;
+      }
+      &__row-group {
+        display: table-row-group;
+      }
+      &__col {
+        display: table-column;
+      }
+      &__col-group {
+        display: table-column-group;
+      }
+      &__cell {
+        display: table-cell;
+      }
+      &__caption {
+        display: table-caption;
+      }
+      &__header {
+        display: table-header-group;
+      }
+      &__footer {
+        display: table-footer-group;
+      }
+    }
+  }
+}
