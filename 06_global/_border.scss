@@ -27,6 +27,20 @@
     };
   }
 
+  @for $i from 1 through length($radius) {
+    &--rounded-left-#{$i} {
+      border-top-left-radius: nth($radius, $i);
+      border-bottom-left-radius: nth($radius, $i);
+    };
+  }
+
+  @for $i from 1 through length($radius) {
+    &--rounded-right-#{$i} {
+      border-top-right-radius: nth($radius, $i);
+      border-bottom-right-radius: nth($radius, $i);
+    };
+  }
+
   @each $color, $tones in $colors {
     @for $i from 1 through length($tones) {
       &--color-#{$color}-#{$i} {
@@ -64,6 +78,28 @@
         border-bottom-left-radius: nth($radius, $i);
         border-bottom-right-radius: nth($radius, $i);
       }
+    }
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($radius) {
+      .#{$breakpoint}\:border--rounded-left-#{$i} {
+        border-top-left-radius: nth($radius, $i);
+        border-bottom-left-radius: nth($radius, $i);
+      };
+    }
+  }
+}
+
+@each $breakpoint, $size in $break-points {
+  @media (min-width: #{$size}) {
+    @for $i from 1 through length($radius) {
+      .#{$breakpoint}\:border--rounded-right-#{$i} {
+        border-top-right-radius: nth($radius, $i);
+        border-bottom-right-radius: nth($radius, $i);
+      };
     }
   }
 }
