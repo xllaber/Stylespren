@@ -17,7 +17,7 @@
   }
 }
 
-@mixin animated-underline-color($color: var(--black-8)) {
+@mixin animated-underline-color($color: var(--black-8), $color2: $color) {
   display: inline-block;
   position: relative;
   color: inherit;
@@ -31,11 +31,12 @@
     left: 0;
     background-color: $color;
     transform-origin: bottom right;
-    transition: transform .25s ease-out;
+    transition: transform .25s ease-out, background-color .25s ease-out;
   }
   &:hover::after {
     transform: scaleX(1);
     transform-origin: bottom left;
+    background-color: $color2;
   }
 }
 
