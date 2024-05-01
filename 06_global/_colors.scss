@@ -21,3 +21,21 @@
     }
   }
 }
+
+@each $color, $tones in $colors {
+  @for $i from 1 through length($tones) {
+    @each $color2, $tones2 in $colors {
+      @for $j from 1 through length($tones2) {
+        @if($color2+"-"+$j != $color+"-"+$i) {
+          .bg-color-#{$color}-#{$i}--to-#{$color2}-#{$j} {
+            background-color:var(--#{$color}-#{$i});
+            transition: background-color .5s .3s;
+            &:hover {
+                background-color: var(--#{$color2}-#{$j});
+            }
+          }
+        }
+      }
+    }
+  }
+}
