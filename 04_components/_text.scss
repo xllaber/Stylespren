@@ -32,6 +32,15 @@
   }
 }
 
+.text-decoration {
+  &--none {
+    text-decoration: none;
+  }
+  &--underline {
+    text-decoration: underline;
+  }
+}
+
 .text-underline-animated {
   @include animated-underline-color(var(--black-5));
   @each $color, $tones in $colors {
