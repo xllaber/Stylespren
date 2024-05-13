@@ -29,6 +29,20 @@
         justify-content: right;
       }
 
+      //justify-self
+      &__justify-self-stretch {
+        justify-self: stretch;
+      }
+      &__justify-self-center {
+        justify-self: center;
+      }
+      &__justify-self-start {
+        justify-self: start;
+      }
+      &__justify-self-end {
+        justify-self: end;
+      }
+
       //align-items
       &--align-items-start {
         align-items: flex-start;
@@ -189,6 +203,20 @@
   }
   &--justify-content-right {
     justify-content: right;
+  }
+
+  //justify-self
+  &__justify-self-stretch {
+    justify-self: stretch;
+  }
+  &__justify-self-center {
+    justify-self: center;
+  }
+  &__justify-self-start {
+    justify-self: start;
+  }
+  &__justify-self-end {
+    justify-self: end;
   }
 
   //align-items
