@@ -21,3 +21,16 @@ $fonts: ("Rubik", "League-Spartan", "Tomorrow", "Exo-2", "Jost", "Noto-Sans", "O
     font-family: var(--font-family-#{$font});
   }
 }
+
+.font-weight {
+  font-weight: normal;
+  &--lighter {
+    font-weight: lighter;
+  }
+  &--bold {
+    font-weight: bold;
+  }
+  &--bolder {
+    font-weight: bolder;
+  }
+}
