@@ -7,7 +7,7 @@
 @each $break-point, $size in $break-points {
   @media (min-width: $size) {
     @each $position in $position-values {
-      .#{$position} {
+      .#{$break-point}\:#{$position} {
         position: #{$position}
       }
     }
